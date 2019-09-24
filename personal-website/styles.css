@@ -1,0 +1,69 @@
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+header {
+    color: whitesmoke;
+}
+
+/* set the jumbotron class's image to the studio one and align text center */
+.jumbotron {
+    background-image: url("images/usc.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+.info-section {
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 100%;
+}
+
+.team-section {
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 100%;
+}
+
+.line {
+    margin-right: 5%;
+    margin-left: 5%;
+    border: 2.5px solid darkslategray;
+}
+.col {
+    width: 100%;
+    min-width: 100%;
+}
+
+.col img {
+    width: 100%
+}
+
+.teammates {
+    text-align: center;
+}
+
+button {
+    color: whitesmoke;
+    background-color:darkslategray
+}
+
+footer p {
+    text-align: center;
+    color: darkslategray;
+}
+/* change the navbar color */
+.navbar {
+    background: darkcyan;
+}
+
+/* adjust column rules when on tablet or desktop */
+@media (min-width: 768px) {
+    .col {
+        float: left;
+        max-width: 33%;
+        min-width: 33%;
+    }
+
+}

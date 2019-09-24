@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+      <title>My Projects</title>
+      <meta name="viewport" content = "width=device-width, initial-scale=1">
+      <meta charset = "utf-8">
+      
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <style>
+        html, body {
+            padding: 0;
+            margin: 0;
+        }
+        header {
+            color: whitesmoke;
+        }
+        a { color: inherit; } 
+        form {
+            text-align: center;
+        };
+
+        /* set the jumbotron class's image to the studio one and align text center */
+        .jumbotron {
+            background-image: url("images/usc.jpg");
+            background-size: cover;
+            text-align: center;
+        }
+
+        .info-section {
+            padding-left: 5%;
+            padding-right: 5%;
+            width: 100%;
+        }
+
+        .team-section {
+            padding-left: 5%;
+            padding-right: 5%;
+            width: 100%;
+        }
+
+        .line {
+            margin-right: 5%;
+            margin-left: 5%;
+            border: 2.5px solid darkslategray;
+        }
+        .col {
+            min-width: 100%;
+            max-width: 100%;
+        }
+
+        .col img {
+            width: 100%
+        }
+
+        .teammates {
+            text-align: center;
+        }
+
+        button {
+            color: whitesmoke;
+            background-color:darkslategray
+        }
+
+        footer p {
+            text-align: center;
+            color: darkslategray;
+        }
+        /* change the navbar color */
+        .navbar {
+            background: darkcyan;
+        }
+
+        /* adjust column rules when on tablet or desktop */
+        @media (min-width: 768px) {
+            .col {
+                float: left;
+                max-width: 50%;
+                min-width: 50%;
+            }
+        }
+    </style>
+  
+    </head>
+  <body>
+    <!-- Bootstrap documentation showed using these classes to be able to customize colors-->
+    <nav class="navbar navbar-expand-mg navbar-dark">
+        <a class="navbar-brand" href="#"> Rastaar Haghi</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="/">About Me</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="projects.ejs">Projects<span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Careers</a>
+              </li>
+            </ul>
+        </div>
+    </nav>
+    <header>
+      <div class = "jumbotron">
+        <h1 class = "display-4">My Projects</h1>
+        <p class = "lead">My projects range from Twitch App Extensions, to iOS Development, to Node-based web-apps!</p>
+      </div>
+    </header>
+    <br>
+    <div class="info-section">
+        <div class="row">
+        <div class = "col">
+          <h1>Live Stock Portfolio</h1>
+          <h4>Node.js + Express</h4>
+          <p>– Implemented a web app using Node that allows users to search for live stock data
+          <p>– Sends GET request to AlphaVantage API, and navigates returned JSON data for specific stock data</p>
+          <p> – Handles REST requests to fetch and return live data to users</p>
+        </div>
+        <div class="col">
+            <img src="images/usc.jpg" alt="portfolio pic">
+        </div>
+        </div>
+    </div>
+
+    <br>
+    <div class="line" ></div>
+    <br>
+
+    <div class="info-section">
+      <div class="row">
+        <div class = "col">
+            <img src="images/headphones.jpg" alt="twitch screenshots">
+        </div>
+        <div class = "col">
+          <h1>Twitch Extension, League of Legends</h1>
+          <h4>Node.js</h4>
+          <ul>
+              <li>Free extension for twitch.tv that allows viewers to track a streamer's live match statistics</li>
+              <li>Fetches live data from Riot Games's API, and displays team loadouts and match details</li>
+              <li>Uses DigitalOcean server to allow for frontend API calls</li>
+              <li>Project submitted for Twitch's Dev Jam 2019 hackathon</li>
+          </ul>
+
+          <form>
+            <input type="button" value="Donate to this extension" onclick="window.location.href='/index.ejs'" />
+          </form>
+
+        </div>
+      </div>
+    </div>
+    <br>
+    <div class="line"></div>
+    <br>
+    <footer>
+      <p>Made by Rastaar Haghi</p>
+    </footer>
+  </body>
+</html>
