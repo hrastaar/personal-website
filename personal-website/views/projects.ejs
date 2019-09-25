@@ -13,9 +13,12 @@
         html, body {
             padding: 0;
             margin: 0;
+            background: #242423;
+            color: white;
         }
         header {
             color: whitesmoke;
+            background:#242423;
         }
         a { color: inherit; } 
         form {
@@ -44,7 +47,7 @@
         .line {
             margin-right: 5%;
             margin-left: 5%;
-            border: 2.5px solid darkslategray;
+            border: 2.5px solid #FF1654;
         }
         .col {
             min-width: 100%;
@@ -66,11 +69,11 @@
 
         footer p {
             text-align: center;
-            color: darkslategray;
+            color: #FF1654;
         }
         /* change the navbar color */
         .navbar {
-            background: darkcyan;
+            background: #FF1654;
         }
 
         /* adjust column rules when on tablet or desktop */
@@ -100,7 +103,7 @@
                 <a class="nav-link active" href="projects.ejs">Projects<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Careers</a>
+                <a class="nav-link" href="contact.ejs">Contact Me</a>
               </li>
             </ul>
         </div>
@@ -117,9 +120,11 @@
         <div class = "col">
           <h1>Live Stock Portfolio</h1>
           <h4>Node.js + Express</h4>
-          <p>– Implemented a web app using Node that allows users to search for live stock data
-          <p>– Sends GET request to AlphaVantage API, and navigates returned JSON data for specific stock data</p>
-          <p> – Handles REST requests to fetch and return live data to users</p>
+          <ul>
+              <li>Implemented a web app using Node that allows users to search for live stock data</li>
+              <li>Sends GET request to AlphaVantage API, and navigates returned JSON data for specific stock data</li>
+              <li>Handles REST requests to fetch and return live data to users</li>
+          </ul>
         </div>
         <div class="col">
             <img src="images/usc.jpg" alt="portfolio pic">
@@ -152,6 +157,53 @@
 
         </div>
       </div>
+
+      <br>
+      <div class="line" ></div>
+      <br>
+
+      <div class="info-section">
+          <div class="row">
+          <div class = "col">
+            <h1>E-Commerce Simulator</h1>
+            <h4>C++</h4>
+            <ul>
+                <li>Implemented an online marketplace that allows users to search through a database for product info</li>
+                <li>Efficiently searches through database and utilizes multiple product sorting features</li>
+                <li>Allows users to add-to-cart, view/write reviews, checkout, etc. if the products are available</li>
+            </ul>
+          </div>
+          <div class="col">
+              <img src="images/usc.jpg" alt="portfolio pic">
+          </div>
+          </div>
+      </div>
+
+<br>
+    <div class="line" ></div>
+    <br>
+
+      <div class="info-section">
+          <div class="row">
+            <div class = "col">
+                <img src="images/headphones.jpg" alt="twitch screenshots">
+            </div>
+            <div class = "col">
+              <h1>Twitch Extension, League of Legends</h1>
+              <h4>Node.js</h4>
+              <ul>
+                  <li>Free extension for twitch.tv that allows viewers to track a streamer's live match statistics</li>
+                  <li>Fetches live data from Riot Games's API, and displays team loadouts and match details</li>
+                  <li>Uses DigitalOcean server to allow for frontend API calls</li>
+                  <li>Project submitted for Twitch's Dev Jam 2019 hackathon</li>
+              </ul>
+    
+              <form>
+                <input type="button" value="Donate to this extension" onclick="window.location.href='/index.ejs'" />
+              </form>
+    
+            </div>
+          </div>
     </div>
     <br>
     <div class="line"></div>

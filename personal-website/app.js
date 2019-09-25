@@ -6,9 +6,6 @@ let paypal = require('paypal-rest-sdk');
 let app = express();
 let fs = require('fs');
 
-var myCss = {
-    style : fs.readFileSync('./styles.css','utf8')
-};
 // server settings
 app.use('/views/images/', express.static('./views/images'));
 app.set('view engine', 'ejs');
@@ -26,7 +23,9 @@ app.get('/home.ejs', (req, res) => {
 app.get('/index.ejs', (req, res) => {
     res.render('index')
 })
-
+app.get('/contact.ejs', (req, res) => {
+    res.render('contact')
+})
 // initialize express server
 app.listen(3000, () => {
     console.log("Server started on: localhost:3000");

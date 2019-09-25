@@ -13,16 +13,24 @@
         html, body {
             padding: 0;
             margin: 0;
+            background: #242423;
+            color: whitesmoke;
         }
         header {
             color: whitesmoke;
         }
         a { color: inherit; } 
-
+        #editor { 
+          position: absolute;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+        }
 
         /* set the jumbotron class's image to the studio one and align text center */
         .jumbotron {
-            background-image: url("images/usc.jpg");
+            background-image: url("https://drive.google.com/file/d/1aynfGO_vLp__YhtICgXzmH0lQCi_qifs/view");
             background-size: cover;
             text-align: center;
         }
@@ -42,7 +50,7 @@
         .line {
             margin-right: 5%;
             margin-left: 5%;
-            border: 2.5px solid darkslategray;
+            border: 2.5px solid #FF1654;
         }
         .col {
             max-width: 100%;
@@ -64,11 +72,12 @@
 
         footer p {
             text-align: center;
-            color: darkslategray;
+            color: #FF1654;
         }
+        
         /* change the navbar color */
         .navbar {
-            background: darkslategray;
+            background: #FF1654;
         }
 
         /* adjust column rules when on tablet or desktop */
@@ -98,7 +107,7 @@
                 <a class="nav-link" href="projects.ejs">Projects</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Careers</a>
+                <a class="nav-link" href="contact.ejs">Contact Me</a>
               </li>
             </ul>
         </div>
@@ -118,7 +127,7 @@
            <a href="scopeusc.com">Scope USC</a>, Viterbi Dean's List, and AT&T Most Socially-Impacting Project 2018</p>
         </div>
         <div class="col">
-            <img src="images/usc.jpg" alt="failed to load">
+            <img src="https://drive.google.com/file/d/1aynfGO_vLp__YhtICgXzmH0lQCi_qifs/view" alt="failed to load">
         </div>
         </div>
     </div>
@@ -130,7 +139,38 @@
     <div class="info-section">
       <div class="row">
         <div class = "col">
-            <img src="" alt="failed to load">
+    <div id="editor">
+      let myLanguages = ['C++', 'HTML/CSS', 'JavaScript', 'Java'];
+      let myTools = ['Node.js', 'Git', 'Linux', 'iOS Development', 'XCode', 'Postman'];
+
+      function printSkills(languages, tools) {
+
+        // print my programming languages
+        console.log('my languages:');
+        for(let i = 0; i < languages.length; i++) {
+          console.log(languages[i]);
+        }
+        // print my tools 
+        console.log('my tools')
+        for(let i = 0; i < tools.length; i++) {
+          console.log(tools[i]);
+        }
+      }
+    </div>
+                
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.4.5/ace.js" type="text/javascript" charset="utf-8"></script>
+            <script>
+                var editor = ace.edit("editor", {
+                  newLineMode: 'auto'
+                });
+                editor.setTheme("ace/theme/monokai");
+                editor.session.setMode("ace/mode/javascript");
+                ace.require("ace/ext/language_tools");
+                var editor = ace.edit("editor");
+                editor.setOptions({
+                    enableBasicAutocompletion: true
+                });
+                </script>
         </div>
         <div class = "col">
           <h1>Skills</h1>
