@@ -26,12 +26,11 @@
         };
 
         /* set the jumbotron class's image to the studio one and align text center */
+       
         .jumbotron {
-            background-image: url("images/usc.jpg");
             background-size: cover;
             text-align: center;
         }
-
         .info-section {
             padding-left: 5%;
             padding-right: 5%;
@@ -55,7 +54,7 @@
         }
 
         .col img {
-            width: 100%
+            width: 90%
         }
 
         .teammates {
@@ -109,7 +108,7 @@
         </div>
     </nav>
     <header>
-      <div class = "jumbotron">
+      <div class = "jumbotron" style="background-image: url('../public/images/grid.jpeg');">
         <h1 class = "display-4">My Projects</h1>
         <p class = "lead">My projects range from Twitch App Extensions, to iOS Development, to Node-based web-apps!</p>
       </div>
@@ -119,7 +118,7 @@
     <div class="info-section">
       <div class="row">
         <div class = "col">
-            <img src="../public/images/twitch.jpeg" alt="twitch screenshots">
+            <a href="https://github.com/AuraOfDivinity/React_runes"><img src="../public/images/twitch.jpeg" alt="Twitch.tv Logo"></a>
         </div>
         <div class = "col">
           <h1>Twitch Extension, League of Legends</h1>
@@ -156,7 +155,7 @@
           </ul>
         </div>
         <div class="col">
-            <img src="../public/images/alpha-vantage.jpeg" alt="portfolio pic">
+            <a href="https://github.com/hrastaar/Portfolio-App"><img src="../public/images/alpha-vantage.jpeg" alt="portfolio pic"></a>
         </div>
         </div>
     </div>
@@ -168,7 +167,7 @@
     <div class="info-section">
         <div class="row">
           <div class="col">
-              <img src="../public/images/C++.png" alt="portfolio pic" style="max-width: 500px; ">
+              <img src="../public/images/C++.png" alt="portfolio pic" style="max-height: 500px; max-width: 500px;">
           </div>
         <div class = "col">
           <h1>E-Commerce Simulator</h1>
@@ -186,6 +185,72 @@
     <br>
     <div class="line" ></div>
     <br>
+
+    <div class="info-section">
+        <div class="row">
+        <div class = "col">
+          <h1>Twitch Chat Bot, Destiny 2</h1>
+          <h4>Node.js</h4>
+          <p>July 2019</p>
+          <ul>
+              <li>Twitch.tv chat bot that showcases streamer's Destiny 2 statistics</li>
+              <li>Uses Bungie's Developer API to fetch user data and manipulate JSON results</li>
+              <li>Certain viewer chat prompts cause this bot to reply with live Destiny 2 stats, using tmi.js npm package</li>
+          </ul>
+        </div>
+        <div class="col">
+            <a href="https://github.com/hrastaar/My-Twitch-Bot"><img src="../public/images/bungie.jpeg" alt="Bungie-logo" style="max-height: 500px; max-width: 500px;"></a>
+        </div>
+        </div>
+    </div>
+
+    <br>
+    <div class="line" ></div>
+    <br>
+
+    <div class="info-section">
+        <div class="row">
+          <div class="col">
+              <img src="../public/images/finetune.png" alt="FineTune" style="max-width: 500px; ">
+          </div>
+        <div class = "col">
+          <h1>FineTune</h1>
+          <h4>Swift / iOS Development</h4>
+          <p>June 2019 - Present</p>
+          <ul>
+              <li>Created car hub app where users have a customizable, navigation map using Google Maps API</li>
+              <li>Utilized Google Firebase to manage user accounts/info and Google AdMob to generate ads</li>
+              <li>Integrating WebRTC to allow personal voice calls between users</li>
+          </ul>
+        </div>
+        </div>
+    </div>
+
+    <br>
+    <div class="line" ></div>
+    <br>
+
+    <div class="info-section">
+        <div class="row">
+        <div class = "col">
+          <h1>MarketTalk</h1>
+          <h4>Swift / iOS Development</h4>
+          <p>Jan. 2019 - Feb. 2019</p>
+          <ul>
+              <li>Created a text chat app made for people to learn more about investing</li>
+              <li>Uses Google Firebase to handle user accounts and stores messages sent in the chat</li>
+          </ul>
+        </div>
+        <div class="col">
+            <a href="https://github.com/hrastaar/MarketTalk"><img src="../public/images/MarketTalk.png" alt="marketTalk" style="max-height: 500px; max-width: 500px;"</a>
+        </div>
+        </div>
+    </div>
+
+    <br>
+    <div class="line" ></div>
+    <br>
+  
 
     <footer>
       <p>Made by Rastaar Haghi</p>

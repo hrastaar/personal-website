@@ -29,7 +29,7 @@ app.get('/contact.ejs', (req, res) => {
 })
 // initialize express server
 app.listen(80, () => {
-    console.log("Server started on: localhost:3000");
+    console.log("Server started on: localhost:80");
 })
 
 // post request for when user presses donate button on locahost:3000/
@@ -40,8 +40,8 @@ app.get('/donate', (req, res) => {
             "payment_method": "paypal"
         },
         "redirect_urls": {
-            "return_url": "http://localhost:3000/success",
-            "cancel_url": "http://localhost:3000/cancelled"
+            "return_url": "http://localhost:80/success",
+            "cancel_url": "http://localhost:80/cancelled"
         },
         "transactions": [{
             "item_list": {
