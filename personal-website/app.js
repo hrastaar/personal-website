@@ -7,8 +7,9 @@ let app = express();
 let fs = require('fs');
 
 // server settings
-app.use('/views/images/', express.static('./views/images'));
 app.set('view engine', 'ejs');
+app.use('/public/images/', express.static('./public/images'));
+app.use('/public/css/', express.static('./public/css'));
 
 // handle the different website handlers
 app.get('/', (req, res) => {
@@ -32,7 +33,7 @@ app.listen(80, () => {
 })
 
 // post request for when user presses donate button on locahost:3000/
-app.post('/donate', (req, res) => {
+app.get('/donate', (req, res) => {
     const create_payment_json = {
         "intent": "sale",
         "payer": {

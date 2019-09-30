@@ -30,7 +30,7 @@
 
         /* set the jumbotron class's image to the studio one and align text center */
         .jumbotron {
-            background-image: url("https://drive.google.com/file/d/1aynfGO_vLp__YhtICgXzmH0lQCi_qifs/view");
+            background-image: url("../public/images/thumb-1920-679478.jpg");
             background-size: cover;
             text-align: center;
         }
@@ -88,6 +88,17 @@
                 min-width: 50%;
             }
         }
+        .my-links {
+            align-content: center;
+            width: 33.3%;
+            float: left;
+
+        }
+        .my-links img {
+            margin-left: 30%;
+            margin-right: 30%;
+            width: 40%;
+        }
     </style>
   
     </head>
@@ -115,7 +126,6 @@
     <header>
       <div class = "jumbotron">
         <h1 class = "display-4">Rastaar Haghi</h1>
-        <p class = "lead">About Me</p>
       </div>
     </header>
     <br>
@@ -123,11 +133,20 @@
         <div class="row">
         <div class = "col">
           <h1>Attending the University of Southern California</h1>
-          <p>I am currently a third-year Computer Science student at the University of Southern California. My on-campus involvement includes USC Networked Systems Lab, Theta Tau, <a href="http://www.uscacm.org/">Association of Computing Machinery</a>, <a href="usg.usc.edu">Undergraduate Student Government</a>,
-           <a href="scopeusc.com">Scope USC</a>, Viterbi Dean's List, and AT&T Most Socially-Impacting Project 2018</p>
+          <p>I am currently a third-year Computer Science student at the University of Southern California, interested in a Software Engineering Internship for the summer of 2020.</p>
+          <h4>My on-campus involvement includes:</h4>
+          <ul>
+          <a href="https://nsl.usc.edu/"><li>USC Networked Systems Lab</li></a>
+          <a href="https://uscthetatau.org"><li>Theta Tau Professional Society</li></a>
+          <a href="http://www.uscacm.org/"><li>Association of Computing Machinery</li></a>
+          <a href="https://usg.usc.edu"><li>Undergraduate Student Government</li></a>
+          <a href="http://www.scopeusc.com"><li>Scope USC</li></a>
+          <a href="https://viterbischool.usc.edu/"><li>Viterbi Dean's List</li></a>
+          <li>AT&T Most Socially-Impacting Project, 2018</li>
+          </ul>
         </div>
         <div class="col">
-            <img src="https://drive.google.com/file/d/1aynfGO_vLp__YhtICgXzmH0lQCi_qifs/view" alt="failed to load">
+            <img src="../public/images/pro-pic.jpg" alt="failed to load">
         </div>
         </div>
     </div>
@@ -207,8 +226,16 @@
     <br>
     <div class="line"></div>
     <br>
-    <footer>
-      <p>Made by Rastaar Haghi</p>
-    </footer>
+        <div class = "my-links">
+            <a href="https://www.github.com/hrastaar"><img src= "../public/images/github.png" alt = "My GitHub"></a>
+        </div>
+    
+        <div class = "my-links">
+            <a href="https://www.linkedin.com/in/rastaarhaghi"><img src= "../public/images/linkedin.png" alt = "My LinkedIn"></a>
+        </div>
+    
+        <div class = "my-links">
+            <a href="mailto:rastaarhaghi@gmail.com"><img src= "../public/images/EmailTesting_Icon.png" alt = "Email Me!"></a>
+        </div>
   </body>
 </html>
