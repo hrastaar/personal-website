@@ -27,7 +27,7 @@ app.get('/contact.ejs', (req, res) => {
     res.render('contact')
 })
 // initialize express server
-app.listen(8080, () => {
+app.listen(80, () => {
     console.log("Server started on: localhost:3000");
 })
 
