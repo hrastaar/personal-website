@@ -77,8 +77,8 @@ app.post('/donate', (req, res) => {
 // set up sandbox paypal sdk with my business account
 paypal.configure({
     'mode': 'sandbox', // OPTIONS: sandbox, or live
-    'client_id': '',
-    'client_secret': ''
+    'client_id': 'AV5n0ECAd0lFV-ane6nfVt1oPCBt97oaJQP8RYzrEq3YdE6G9hAmspLK-d7CujbOXgIf80FpGXAdgIIu',
+    'client_secret': 'EDaHfl0W72tmdKNuf3UHWM6hc2iix69LMsDruTYJaSzPLNwhCi5rW0pnoCq7QOdwAwHRHatBCmCVtR2G'
 });
 
   
