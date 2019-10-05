@@ -10,11 +10,11 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <style>
-        html, body {
+        html, body, header {
             padding: 0;
             margin: 0;
-            background: #242423;
-            color: whitesmoke;
+            background: #0e0e0e;
+            color: white;
         }
         header {
             color: whitesmoke;
@@ -28,9 +28,19 @@
           left: 0;
         }
 
+        li:hover {
+          color: #9147FF;
+        }
+
+        #experience {
+          margin-left: 5%;
+          margin-right: 5%;
+        }
+
+
         /* set the jumbotron class's image to the studio one and align text center */
         .jumbotron {
-            background-image: url("../public/images/grid.jpeg");
+            background:#9147FF;
             background-size: cover;
             text-align: center;
         }
@@ -50,7 +60,7 @@
         .line {
             margin-right: 5%;
             margin-left: 5%;
-            border: 2.5px solid #FF1654;
+            border: 2.5px solid #9147FF;
         }
         .col {
             max-width: 100%;
@@ -70,14 +80,10 @@
             background-color:darkslategray
         }
 
-        footer p {
-            text-align: center;
-            color: #FF1654;
-        }
         
         /* change the navbar color */
         .navbar {
-            background: #FF1654;
+            background: #262626;
         }
 
         /* adjust column rules when on tablet or desktop */
@@ -93,6 +99,9 @@
             width: 33.3%;
             float: left;
 
+        }
+        a:hover {
+          color: #9147FF;
         }
         .my-links img {
             margin-left: 35%;
@@ -112,13 +121,13 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
               <li class="nav-item active">
-                <a class="nav-link" href="home.ejs">About Me<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="home.ejs" style= "color:#9147FF;">About Me<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="projects.ejs">Projects</a>
+                <a class="nav-link" href="projects.ejs" style="color: whitesmoke;">Projects</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.ejs">Contact Me</a>
+                <a class="nav-link" href="contact.ejs" style="color: whitesmoke;">Contact Me</a>
               </li>
             </ul>
         </div>
@@ -128,6 +137,7 @@
         <h1 class = "display-4">Rastaar Haghi</h1>
       </div>
     </header>
+
     <br>
     <div class="info-section">
         <div class="row">
@@ -158,7 +168,7 @@
     <div class="info-section">
       <div class="row">
         <div class = "col">
-    <div id="editor">
+    <div id="editor" >
       let myLanguages = ['C++', 'HTML/CSS', 'JavaScript', 'Java'];
       let myTools = ['Node.js', 'Git', 'Linux', 'iOS Development', 'XCode', 'Postman'];
 
@@ -226,16 +236,49 @@
     <br>
     <div class="line"></div>
     <br>
-        <div class = "my-links">
-            <a href="https://www.github.com/hrastaar"><img src= "../public/images/github.png" alt = "My GitHub"></a>
-        </div>
-    
-        <div class = "my-links">
-            <a href="https://www.linkedin.com/in/rastaarhaghi"><img src= "../public/images/linkedin.png" alt = "My LinkedIn"></a>
-        </div>
-    
-        <div class = "my-links">
-            <a href="mailto:rastaarhaghi@gmail.com"><img src= "../public/images/EmailTesting_Icon.png" alt = "Email Me!"></a>
-        </div>
+
+    <div id="experience">
+      <h1>Work Experience</h1>
+        <h3>Research Assistant</h3>
+        <h5 style="color:#9147FF;">USC Networked Systems Lab</h5>
+        <p style="color:lightgray">Apr. 2019 - Aug. 2019</p>
+        <ul>
+          <li>Designed object-oriented data structures that successfully model crop growth and yield optimization</li>
+          <li>Created JavaScript weather API using Google Earth Engine that gathered 20 years of daily temperature
+            data given coordinates, later used for weather modeling</li>
+          <li>Created unit tests that ensured stability, functionality, and integrity of simulation functions</li>
+        </ul>
+
+        <br>
+        <div class="line"></div>
+        <br>
+
+        <h3>Quality Assurance Intern</h3>
+        <h5 style="color:#9147FF;">Promptlink Communications, Inc.</h5>
+        <p style="color:lightgray;">June 2019 - Aug. 2019</p>
+        <ul>
+          <li>Conducted firmware tests on modems and reported on test performance and outcome</li>
+          <li>Monitored internet routers and modem conditions/settings using MySQL</li>
+          <li>Successfully recorded software bugs and errors and explained results with Software Development team</li>
+        </ul>
+    </div>
+
+    <br>
+    <div class="line"></div>
+    <br>
+
+    <div class = "my-links">
+        <a href="https://www.github.com/hrastaar"><img src= "../public/images/github.png" alt = "My GitHub"></a>
+    </div>
+
+    <div class = "my-links">
+        <a href="https://www.linkedin.com/in/rastaarhaghi"><img src= "../public/images/linkedin.png" alt = "My LinkedIn"></a>
+    </div>
+
+    <div class = "my-links">
+        <a href="mailto:rastaarhaghi@gmail.com"><img src= "../public/images/EmailTesting_Icon.png" alt = "Email Me!"></a>
+    </div>
+    <br>
   </body>
+  
 </html>

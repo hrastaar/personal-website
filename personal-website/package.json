@@ -15,6 +15,7 @@
     "fs": "0.0.1-security",
     "nodemon": "^1.19.3",
     "paypal-rest-sdk": "^1.8.1",
-    "swig": "^1.4.2"
+    "swig": "^1.4.2",
+    "typed.js": "^2.0.11"
   }
 }

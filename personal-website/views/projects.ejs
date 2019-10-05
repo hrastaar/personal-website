@@ -9,17 +9,15 @@
       <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    
     <style>
-        html, body {
+        html, body, header {
             padding: 0;
             margin: 0;
-            background: #242423;
+            background: #0e0e0e;
             color: white;
         }
-        header {
-            color: whitesmoke;
-            background:#242423;
-        }
+
         a { color: inherit; } 
         form {
             text-align: center;
@@ -28,9 +26,11 @@
         /* set the jumbotron class's image to the studio one and align text center */
        
         .jumbotron {
-            background-size: cover;
             text-align: center;
+            align-content: center;
+            background: none;
         }
+
         .info-section {
             padding-left: 5%;
             padding-right: 5%;
@@ -48,7 +48,7 @@
         .line {
             margin-right: 5%;
             margin-left: 5%;
-            border: 2.5px solid #FF1654;
+            border: 2.5px solid #9147FF;
         }
         .col {
             min-width: 100%;
@@ -56,7 +56,7 @@
         }
 
         .col img {
-            width: 90%
+          width: 90%;
         }
 
         .teammates {
@@ -70,11 +70,18 @@
 
         footer p {
             text-align: center;
-            color: #FF1654;
+            color: #9147FF;
+        }
+
+        li:hover {
+          color: #9147FF;
         }
         /* change the navbar color */
         .navbar {
-            background: #FF1654;
+            background: #262626;
+        }
+        .navbar-brand {
+          color:#9147FF
         }
 
         /* adjust column rules when on tablet or desktop */
@@ -101,23 +108,26 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
               <li class="nav-item">
-                <a class="nav-link" href="/">About Me</a>
+                <a class="nav-link" href="/" style="color: whitesmoke">About Me</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" href="projects.ejs">Projects<span class="sr-only">(current)</span></a>
+                <a class="nav-link active" href="projects.ejs" style="color:#9147FF">Projects<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.ejs">Contact Me</a>
+                <a class="nav-link" href="contact.ejs" style="color: whitesmoke">Contact Me</a>
               </li>
             </ul>
         </div>
     </nav>
     <header>
-      <div class = "jumbotron" style="background-image: url('../public/images/grid.jpeg');">
-        <h1 class = "display-4">My Projects</h1>
-        <p class = "lead">My projects range from Twitch App Extensions, to iOS Development, to Node-based web-apps!</p>
+      <div class = "jumbotron bg-transparent">
+        <h1 class = "display-4" style="text-align: center;">My Projects</h1>
+        <p class = "lead" style="text-align: center;">My projects range from Twitch App Extensions, to iOS Development, to Node-based web-apps!</p>
       </div>
     </header>
+
+    <br>
+    <div class="line" ></div>
     <br>
 
     <div class="info-section">
@@ -127,7 +137,7 @@
         </div>
         <div class = "col">
           <h1>Twitch Extension, League of Legends</h1>
-          <h4>Node.js + Express</h4>
+          <h4 style="color:#09f5e9">Node.js + Express</h4>
           <p>Sept. 2019 - Present</p>
           <ul>
               <li>Created Node app that fetches live LoL in-game loadouts from Riot API, to be displayed during streams</li>
@@ -151,7 +161,7 @@
         <div class="row">
         <div class = "col">
           <h1>Live Stock Portfolio</h1>
-          <h4>Node.js + Express</h4>
+          <h4 style="color:#09f5e9">Node.js + Express</h4>
           <p>June 2019</p>
           <ul>
               <li>Implemented a web app using Node that allows users to search for live stock data</li>
@@ -172,11 +182,11 @@
     <div class="info-section">
         <div class="row">
           <div class="col">
-              <img src="../public/images/C++.png" alt="portfolio pic" style="max-height: 500px; max-width: 500px;">
+              <img src="../public/images/C++.jpeg" alt="portfolio pic">
           </div>
         <div class = "col">
           <h1>E-Commerce Simulator</h1>
-          <h4>C++</h4>
+          <h4 style="color:#09f5e9">C++</h4>
           <p>Feb. 2019 - Mar. 2019</p>
           <ul>
               <li>Implemented an online marketplace that allows users to search through a database for product info</li>
@@ -195,7 +205,7 @@
         <div class="row">
         <div class = "col">
           <h1>Twitch Chat Bot, Destiny 2</h1>
-          <h4>Node.js</h4>
+          <h4 style="color:#09f5e9">Node.js</h4>
           <p>July 2019</p>
           <ul>
               <li>Twitch.tv chat bot that showcases streamer's Destiny 2 statistics</li>
@@ -204,7 +214,7 @@
           </ul>
         </div>
         <div class="col">
-            <a href="https://github.com/hrastaar/My-Twitch-Bot"><img src="../public/images/bungie.jpeg" alt="Bungie-logo" style="max-height: 500px; max-width: 500px;"></a>
+            <a href="https://github.com/hrastaar/My-Twitch-Bot"><img src="../public/images/bungie.png" alt="Bungie-logo"></a>
         </div>
         </div>
     </div>
@@ -216,11 +226,11 @@
     <div class="info-section">
         <div class="row">
           <div class="col">
-              <img src="../public/images/finetune.png" alt="FineTune" style="max-width: 500px; ">
+              <img src="../public/images/car.png" alt="FineTune">
           </div>
         <div class = "col">
           <h1>FineTune</h1>
-          <h4>Swift / iOS Development</h4>
+          <h4 style="color:#09f5e9">Swift / iOS Development</h4>
           <p>June 2019 - Present</p>
           <ul>
               <li>Created car hub app where users have a customizable, navigation map using Google Maps API</li>
@@ -239,7 +249,7 @@
         <div class="row">
         <div class = "col">
           <h1>MarketTalk</h1>
-          <h4>Swift / iOS Development</h4>
+          <h4 style="color:#09f5e9">Swift / iOS Development</h4>
           <p>Jan. 2019 - Feb. 2019</p>
           <ul>
               <li>Created a text chat app made for people to learn more about investing</li>
