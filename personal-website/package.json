@@ -13,8 +13,11 @@
     "ejs": "^2.7.1",
     "express": "^4.17.1",
     "fs": "0.0.1-security",
+    "https": "^1.0.0",
     "nodemon": "^1.19.3",
     "paypal-rest-sdk": "^1.8.1",
+    "request-promise": "^4.2.4",
+    "simple-get": "^3.1.0",
     "swig": "^1.4.2",
     "typed.js": "^2.0.11"
   }
