@@ -1,0 +1,104 @@
+html, body, header {
+    padding: 0;
+    margin: 0;
+    background: #0e0e0e;
+    color: white;
+}
+header {
+    color: whitesmoke;
+}
+a { color: inherit; } 
+#editor { 
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+li:hover {
+  color: #9147FF;
+}
+
+#experience {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+
+/* set the jumbotron class's image to the studio one and align text center */
+.jumbotron {
+    background: url("../public/images/purp.jpeg");
+    width: auto;
+    height: auto;
+
+    background-size: cover;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2.5%;
+}
+
+.info-section {
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 100%;
+}
+
+.team-section {
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 100%;
+}
+
+.line {
+    margin-right: 5%;
+    margin-left: 5%;
+    border: 2.5px solid #9147FF;
+}
+.col {
+    max-width: 100%;
+    min-width: 100%;
+}
+
+.col img {
+    width: 100%
+}
+
+.teammates {
+    text-align: center;
+}
+
+button {
+    color: whitesmoke;
+    background-color:darkslategray
+}
+
+
+/* change the navbar color */
+.navbar {
+    background: #0e0e0e;
+}
+
+/* adjust column rules when on tablet or desktop */
+@media (min-width: 768px) {
+    .col {
+        float: left;
+        max-width: 50%;
+        min-width: 50%;
+    }
+}
+.my-links {
+    align-content: center;
+    width: 33.3%;
+    float: left;
+
+}
+a:hover {
+  color: #9147FF;
+}
+.my-links img {
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 30%;
+}
