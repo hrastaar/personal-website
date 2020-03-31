@@ -4,7 +4,7 @@
       <title>Rastaar Haghi</title>
       <meta name="viewport" content = "width=device-width, initial-scale=1">
       <meta charset = "utf-8">
-      
+
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
       <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
@@ -19,8 +19,8 @@
         header {
             color: whitesmoke;
         }
-        a { color: inherit; } 
-        #editor { 
+        a { color: inherit; }
+        #editor {
           position: absolute;
           top: 0;
           right: 0;
@@ -86,7 +86,7 @@
             background-color:darkslategray
         }
 
-        
+
         /* change the navbar color */
         .navbar {
             background: #0e0e0e;
@@ -115,7 +115,7 @@
             width: 30%;
         }
     </style>
-  
+
     </head>
   <body>
     <!-- Bootstrap documentation showed using these classes to be able to customize colors-->
@@ -162,7 +162,7 @@
           </ul>
         </div>
         <div class="col">
-            <img src="../public/images/pro-pic.jpg" class = "rounded-circle" alt="failed to load">
+            <img src="../public/images/casual-pic.JPG" class = "rounded-circle" alt="failed to load">
         </div>
         </div>
     </div>
@@ -177,7 +177,7 @@
     <div id="editor" >
       let myLanguages = ['C++', 'Swift', 'SQL', 'PHP',
                           'HTML/CSS', 'JavaScript', 'Java'];
-      let myTools = ['Node.js', 'SwiftUI', 'Express.js', 
+      let myTools = ['Node.js', 'SwiftUI', 'Express.js',
                       'Google GTest', 'GCP', 'Bootstrap'];
 
       function printSkills(languages, tools) {
@@ -187,7 +187,7 @@
         for(let i = 0; i < languages.length; i++) {
           console.log(languages[i]);
         }
-        // print my tools 
+        // print my tools
         console.log('my tools')
         for(let i = 0; i < tools.length; i++) {
           console.log(tools[i]);
@@ -195,7 +195,7 @@
         return true;
       }
     </div>
-                
+
             <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.4.5/ace.js" type="text/javascript" charset="utf-8"></script>
             <script>
                 var editor = ace.edit("editor", {
@@ -222,6 +222,7 @@
             <li>PHP</li>
             <li>SQL</li>
             <li>Swift</li>
+            <li>C</li>
           </ul>
 
           <h5>Tools and Frameworks</h5>
@@ -230,21 +231,21 @@
             <li>Git</li>
             <li>Linux</li>
             <li>SwiftUI</li>
+            <li>UIKit</li>
             <li>XCode</li>
-            <li>Postman</li>
-            <li>Google Cloud Platform</li>
-            <li>MySQL Workbench</li>
-            <li>MAMP</li>
             <li>Bootstrap</li>
           </ul>
 
           <h5>Relevant Coursework</h5>
           <ul>
-            <li>Data Structures and Object Oriented Programming</li>
-            <li>Principles of Software Development</li>
-            <li>Full Stack Development</li>
-            <li>Algorithms and Theory of Computing</li>
-            <li>Discrete Methods in Computer Science</li>
+            <li>CSCI 104: Data Structures and Object Oriented Programming</li>
+            <li>CSCI 170: Discrete Methods in Computer Science</li>
+            <li>CSCI 201: Principles of Software Development</li>
+            <li>CSCI 270: Algorithms and Theory of Computing</li>
+            <li>CSCI 310: Software Engineering (In Progress)</li>
+            <li>CSCI 356: Computer Systems (In Progress)</li>
+            <li>ITP 168: Graphical User Interfaces in Java (In Progress)</li>
+            <li>ITP 303: Full Stack Development</li>
             <li>The Complete iOS Development Bootcamp - Udemy Course</li>
             <li>Node.js Bootcamp - Coding with Mosh Bootcamp</li>
           </ul>
@@ -257,6 +258,17 @@
 
     <div id="experience">
       <h1>Work Experience</h1>
+        <h3>Software Engineering Intern</h3>
+        <h5 style="color:#9147FF;">Google</h5>
+        <p style="color:lightgray">Summer 2020</p>
+        <ul>
+          /* Nothing to put here yet. */
+        </ul>
+
+        <br>
+        <div class="line"></div>
+        <br>
+
         <h3>Research Assistant</h3>
         <h5 style="color:#9147FF;">USC Networked Systems Lab</h5>
         <p style="color:lightgray">Apr. 2019 - Aug. 2019</p>
@@ -297,5 +309,5 @@
         <a href="mailto:rastaarhaghi@gmail.com"><img src= "../public/images/EmailTesting_Icon.png" alt = "Email Me!"></a>
     </div>
   </body>
-  
+
 </html>
