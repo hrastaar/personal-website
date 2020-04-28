@@ -4,99 +4,85 @@
       <title>My Projects</title>
       <meta name="viewport" content = "width=device-width, initial-scale=1">
       <meta charset = "utf-8">
-
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
       <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+      <style>
+          html, body, header {
+              padding: 0;
+              margin: 0;
+              background: #0e0e0e;
+              color: white;
+          }
 
-    <style>
-        html, body, header {
-            padding: 0;
-            margin: 0;
-            background: #0e0e0e;
-            color: white;
-        }
-
-        a { color: inherit; }
-        form {
-            text-align: center;
-        };
-
-        /* set the jumbotron class's image to the studio one and align text center */
-
-        .jumbotron {
-            text-align: center;
-            align-content: center;
-            background: none;
-        }
-
-        .info-section {
-            padding-left: 5%;
-            padding-right: 5%;
-            width: 100%;
-            align-content: center;
-            text-align: center;
-        }
-
-        .team-section {
-            padding-left: 5%;
-            padding-right: 5%;
-            width: 100%;
-        }
-
-        .line {
-            margin-right: 5%;
-            margin-left: 5%;
-            border: 2.5px solid #9147FF;
-        }
-        .col {
-            min-width: 100%;
-            max-width: 100%;
-        }
-
-        .col img {
-          width: 90%;
-        }
-
-        .teammates {
-            text-align: center;
-        }
-
-        button {
-            color: whitesmoke;
-            background-color:darkslategray
-        }
-
-        footer p {
-            text-align: center;
+          a { color: inherit; }
+          form {
+              text-align: center;
+          };
+          /* set the jumbotron class's image to the studio one and align text center */
+          .jumbotron {
+              text-align: center;
+              align-content: center;
+              background: none;
+          }
+          .info-section {
+              padding-left: 5%;
+              padding-right: 5%;
+              width: 100%;
+              align-content: center;
+              text-align: center;
+          }
+          .team-section {
+              padding-left: 5%;
+              padding-right: 5%;
+              width: 100%;
+          }
+          .line {
+              margin-right: 5%;
+              margin-left: 5%;
+              border: 2.5px solid #9147FF;
+          }
+          .col {
+              min-width: 100%;
+              max-width: 100%;
+          }
+          .col img {
+            width: 90%;
+          }
+          .teammates {
+              text-align: center;
+          }
+          button {
+              color: whitesmoke;
+              background-color:darkslategray
+          }
+          footer p {
+              text-align: center;
+              color: #9147FF;
+          }
+          li:hover {
             color: #9147FF;
-        }
-
-        li:hover {
-          color: #9147FF;
-        }
-        /* change the navbar color */
-        .navbar {
-            background: #0e0e0e;
-        }
-        .navbar-brand {
-          color:#9147FF
-        }
-
-        /* adjust column rules when on tablet or desktop */
-        @media (min-width: 768px) {
-            .col {
-                float: left;
-                max-width: 50%;
-                min-width: 50%;
-            }
-            .info-section {
-              text-align:unset;
-            }
-        }
-    </style>
-
+          }
+          /* change the navbar color */
+          .navbar {
+              background: #0e0e0e;
+          }
+          .navbar-brand {
+            color:#9147FF
+          }
+          /* adjust column rules when on tablet or desktop */
+          @media (min-width: 768px) {
+              .col {
+                  float: left;
+                  max-width: 50%;
+                  min-width: 50%;
+              }
+              .info-section {
+                text-align:unset;
+              }
+          }
+      </style>
     </head>
   <body>
     <!-- Bootstrap documentation showed using these classes to be able to customize colors-->
@@ -126,6 +112,27 @@
       </div>
     </header>
 
+    <div class="line" ></div>
+    <br>
+
+    <div class="info-section">
+      <div class="row">
+      <div class = "col">
+        <h1>Priorisk</h1>
+        <h4 style="color:#09f5e9">Swift / iOS Development</h4>
+        <p>Hack:Now Apr. 2020</p>
+        <ul>
+            <li>Created iOS application that allows hospital staff to gather patient information to prioritize the most at-risk COVID-19 patients</li>
+            <li>Uses UIKit and Python script to analyze form responses to create a rating scale for hospital staff to consider</li>
+            <li>Worked with a UI/UX designer and biology PhD student as part of Hack:Now Hackathon to tackle problems associated with COVID-19</li>
+        </ul>
+      </div>
+        <div class="col">
+            <a href="https://devpost.com/software/priorisk"><img src="../public/images/hacknow.png" alt="marketTalk" style="max-height: 500px; max-width: 500px;"></a>
+        </div>
+      </div>
+    </div>
+    <br>
     <div class="line" ></div>
     <br>
 
@@ -183,7 +190,7 @@
         <div class = "col">
           <h1>Twitch Extension, League of Legends</h1>
           <h4 style="color:#09f5e9">Node.js + Express</h4>
-          <p>Sept. 2019 - Oct. 2019 (Incomplete)</p>
+          <p>Sept. 2019 - Oct. 2019</p>
           <ul>
               <li>Created Node app that fetches live LoL in-game loadouts from Riot API, to be displayed during streams</li>
               <li>Deployed Express server on the cloud to handle real-time backend usage</li>
@@ -266,7 +273,7 @@
     <div class="info-section">
         <div class="row">
           <div class="col">
-              <img src="../public/images/car.png" alt="FineTune">
+              <img src="../public/images/car.png" alt="FineTune" style="max-height: 400px; max-width: 400px;" >
           </div>
         <div class = "col">
           <h1>FineTune</h1>
@@ -284,28 +291,6 @@
     <br>
     <div class="line" ></div>
     <br>
-
-    <div class="info-section">
-        <div class="row">
-        <div class = "col">
-          <h1>MarketTalk</h1>
-          <h4 style="color:#09f5e9">Swift / iOS Development</h4>
-          <p>Jan. 2019 - Feb. 2019</p>
-          <ul>
-              <li>Created a text chat app made for people to learn more about investing</li>
-              <li>Uses Google Firebase to handle user accounts and stores messages sent in the chat</li>
-          </ul>
-        </div>
-        <div class="col">
-            <a href="https://github.com/hrastaar/MarketTalk"><img src="../public/images/MarketTalk.png" alt="marketTalk" style="max-height: 500px; max-width: 500px;"></a>
-        </div>
-        </div>
-    </div>
-
-    <br>
-    <div class="line" ></div>
-    <br>
-
 
     <footer>
       <p>Made by Rastaar Haghi</p>
