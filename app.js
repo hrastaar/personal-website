@@ -32,17 +32,18 @@ app.listen(80, () => {
     console.log("Server started on: localhost:80");
 })
 
-app.get('/api/premierleague/standings', (req, res) => {
+app.get('/api/premierleague/19-20/standings', (req, res) => {
 
-    fs.readFile('./json/PremierLeagueTable.json', (err, json) => {
+    fs.readFile('./json/19-20/PremierLeagueTable.json', (err, json) => {
         let obj = JSON.parse(json);
         res.json(obj);
     });
 });
 
-app.get('/api/premierleague/week/:weekNumber', (req, res) => {
-
-    fs.readFile('./json/Week' + req.params.weekNumber + '-19/20.json', (err, json) => {
+app.get('/api/premierleague/19-20/week/:weekNumber', (req, res) => {
+    var fileName = './json/19-20/Week' + req.params.weekNumber + '.json';
+    console.log(fileName);
+    fs.readFile(fileName, (err, json) => {
         let obj = JSON.parse(json);
         res.json(obj);
     });
