@@ -1,0 +1,174 @@
+{
+  "matches" : [
+    {
+      "attendance" : "Behind Closed Doors",
+      "time" : "FT",
+      "team2" : {
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "teamName" : "Sheffield United"
+      },
+      "referee" : "Michael Oliver",
+      "when" : "Wednesday, Jun 17 2020 18:00",
+      "venue" : "Villa Park",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Aston Villa"
+      }
+    },
+    {
+      "when" : "Saturday, Feb 29 2020 15:00",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 2,
+        "teamName" : "Bournemouth"
+      },
+      "attendance" : "10.667",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 2,
+        "teamName" : "Chelsea"
+      },
+      "time" : "FT",
+      "venue" : "Vitality Stadium",
+      "referee" : "Andre Marriner"
+    },
+    {
+      "when" : "Saturday, Feb 29 2020 12:30",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Brighton"
+      },
+      "attendance" : "30.124",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Crystal Palace"
+      },
+      "time" : "FT",
+      "venue" : "AMEX Stadium",
+      "referee" : "Martin Atkinson"
+    },
+    {
+      "time" : "FT",
+      "when" : "Sunday, Mar 01 2020 14:00",
+      "team1" : {
+        "teamName" : "Everton",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "venue" : "Goodison Park",
+      "attendance" : "39.374",
+      "team2" : {
+        "teamName" : "Manchester United",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      }
+    },
+    {
+      "referee" : "Anthony Taylor",
+      "team2" : {
+        "redCards" : 1,
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "teamName" : "Arsenal"
+      },
+      "team1" : {
+        "teamScore" : 3,
+        "firstHalfScore" : 1,
+        "teamName" : "Manchester City"
+      },
+      "attendance" : "Behind Closed Doors",
+      "when" : "Wednesday, Jun 17 2020 20:15",
+      "venue" : "Etihad Stadium",
+      "time" : "FT"
+    },
+    {
+      "venue" : "St James' Park",
+      "referee" : "Andy Madley",
+      "team1" : {
+        "teamName" : "Newcastle United",
+        "teamScore" : 0,
+        "firstHalfScore" : 0
+      },
+      "time" : "FT",
+      "attendance" : "52.219",
+      "team2" : {
+        "teamName" : "Burnley",
+        "teamScore" : 0,
+        "firstHalfScore" : 0
+      },
+      "when" : "Saturday, Feb 29 2020 15:00"
+    },
+    {
+      "venue" : "Carrow Road",
+      "referee" : "Craig Pawson",
+      "team1" : {
+        "teamName" : "Norwich",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "time" : "FT",
+      "attendance" : "27.010",
+      "team2" : {
+        "teamName" : "Leicester",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "when" : "Friday, Feb 28 2020 20:00"
+    },
+    {
+      "venue" : "Tottenham Hotspur Stadium",
+      "team2" : {
+        "teamName" : "Wolverhampton Wanderers",
+        "firstHalfScore" : 1,
+        "teamScore" : 3
+      },
+      "time" : "FT",
+      "attendance" : "58.064",
+      "when" : "Sunday, Mar 01 2020 14:00",
+      "team1" : {
+        "teamName" : "Tottenham",
+        "firstHalfScore" : 2,
+        "teamScore" : 2
+      },
+      "referee" : "Stuart Attwell"
+    },
+    {
+      "venue" : "Vicarage Road",
+      "team2" : {
+        "teamName" : "Liverpool",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "time" : "FT",
+      "attendance" : "21.634",
+      "when" : "Saturday, Feb 29 2020 17:30",
+      "team1" : {
+        "teamName" : "Watford",
+        "firstHalfScore" : 0,
+        "teamScore" : 3
+      },
+      "referee" : "Michael Oliver"
+    },
+    {
+      "venue" : "London Stadium",
+      "team2" : {
+        "teamName" : "Southampton",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "time" : "FT",
+      "attendance" : "59.962",
+      "when" : "Saturday, Feb 29 2020 15:00",
+      "team1" : {
+        "teamName" : "West Ham",
+        "firstHalfScore" : 2,
+        "teamScore" : 3
+      },
+      "referee" : "Anthony Taylor"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "matches" : [
+    {
+      "referee" : "Michael Oliver",
+      "when" : "Saturday, Nov 02 2019 15:00",
+      "venue" : "Emirates Stadium",
+      "attendance" : "60.383",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Arsenal",
+        "firstHalfScore" : 1
+      },
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Wolverhampton Wanderers",
+        "firstHalfScore" : 0
+      },
+      "time" : "FT"
+    },
+    {
+      "referee" : "Jonathan Moss",
+      "when" : "Saturday, Nov 02 2019 15:00",
+      "venue" : "Villa Park",
+      "attendance" : "41.878",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Aston Villa",
+        "firstHalfScore" : 1
+      },
+      "team2" : {
+        "teamScore" : 2,
+        "teamName" : "Liverpool",
+        "firstHalfScore" : 0
+      },
+      "time" : "FT"
+    },
+    {
+      "referee" : "Chris Kavanagh",
+      "when" : "Saturday, Nov 02 2019 12:30",
+      "venue" : "Vitality Stadium",
+      "attendance" : "10.669",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Bournemouth",
+        "firstHalfScore" : 1
+      },
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Manchester United",
+        "firstHalfScore" : 0
+      },
+      "time" : "FT"
+    },
+    {
+      "referee" : "Kevin Friend",
+      "when" : "Saturday, Nov 02 2019 15:00",
+      "venue" : "AMEX Stadium",
+      "attendance" : "30.539",
+      "team1" : {
+        "teamScore" : 2,
+        "teamName" : "Brighton",
+        "firstHalfScore" : 0
+      },
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Norwich",
+        "firstHalfScore" : 0
+      },
+      "time" : "FT"
+    },
+    {
+      "referee" : "Paul Tierney",
+      "when" : "Sunday, Nov 03 2019 14:00",
+      "venue" : "Selhurst Park",
+      "attendance" : "25.480",
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 0
+      },
+      "team2" : {
+        "teamScore" : 2,
+        "teamName" : "Leicester",
+        "firstHalfScore" : 0
+      },
+      "time" : "FT"
+    },
+    {
+      "referee" : "Martin Atkinson",
+      "when" : "Sunday, Nov 03 2019 16:30",
+      "venue" : "Goodison Park",
+      "attendance" : "39.001",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Everton",
+        "firstHalfScore" : 0
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "redCards" : 1,
+        "teamName" : "Tottenham",
+        "teamScore" : 1
+      },
+      "time" : "FT"
+    },
+    {
+      "venue" : "Etihad Stadium",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Southampton",
+        "teamScore" : 1
+      },
+      "when" : "Saturday, Nov 02 2019 15:00",
+      "referee" : "Lee Mason",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Manchester City",
+        "teamScore" : 2
+      },
+      "attendance" : "53.922",
+      "time" : "FT"
+    },
+    {
+      "venue" : "Bramall Lane",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Burnley",
+        "teamScore" : 0
+      },
+      "when" : "Saturday, Nov 02 2019 15:00",
+      "referee" : "Simon Hooper",
+      "team1" : {
+        "firstHalfScore" : 3,
+        "teamName" : "Sheffield United",
+        "teamScore" : 3
+      },
+      "attendance" : "31.131",
+      "time" : "FT"
+    },
+    {
+      "venue" : "Vicarage Road",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Chelsea",
+        "teamScore" : 2
+      },
+      "when" : "Saturday, Nov 02 2019 17:30",
+      "referee" : "Anthony Taylor",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Watford",
+        "teamScore" : 1
+      },
+      "attendance" : "21.011",
+      "time" : "FT"
+    },
+    {
+      "venue" : "London Stadium",
+      "team2" : {
+        "firstHalfScore" : 2,
+        "teamName" : "Newcastle United",
+        "teamScore" : 3
+      },
+      "when" : "Saturday, Nov 02 2019 15:00",
+      "referee" : "Stuart Attwell",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamName" : "West Ham",
+        "teamScore" : 2
+      },
+      "attendance" : "59.907",
+      "time" : "FT"
+    }
+  ]
+}

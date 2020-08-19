@@ -1,0 +1,175 @@
+{
+  "matches" : [
+    {
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Norwich",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Anfield",
+      "referee" : "Michael Oliver",
+      "team1" : {
+        "teamScore" : 4,
+        "teamName" : "Liverpool",
+        "firstHalfScore" : 4
+      },
+      "when" : "Friday, Aug 09 2019 20:00",
+      "time" : "FT",
+      "attendance" : "53.333"
+    },
+    {
+      "team2" : {
+        "teamScore" : 5,
+        "teamName" : "Manchester City",
+        "firstHalfScore" : 1
+      },
+      "venue" : "London Stadium",
+      "referee" : "Mike Dean",
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "West Ham",
+        "firstHalfScore" : 0
+      },
+      "when" : "Saturday, Aug 10 2019 12:30",
+      "time" : "FT",
+      "attendance" : "59.870"
+    },
+    {
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Sheffield United",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Vitality Stadium",
+      "referee" : "Kevin Friend",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Bournemouth",
+        "firstHalfScore" : 0
+      },
+      "when" : "Saturday, Aug 10 2019 15:00",
+      "time" : "FT",
+      "attendance" : "10.714"
+    },
+    {
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Southampton",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Turf Moor",
+      "referee" : "Graham Scott",
+      "team1" : {
+        "teamScore" : 3,
+        "teamName" : "Burnley",
+        "firstHalfScore" : 0
+      },
+      "when" : "Saturday, Aug 10 2019 15:00",
+      "time" : "FT",
+      "attendance" : "19.784"
+    },
+    {
+      "team2" : {
+        "firstHalfScore" : 0,
+        "redCards" : 1,
+        "teamName" : "Everton",
+        "teamScore" : 0
+      },
+      "venue" : "Selhurst Park",
+      "referee" : "Jonathan Moss",
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 0
+      },
+      "when" : "Saturday, Aug 10 2019 15:00",
+      "time" : "FT",
+      "attendance" : "25.151"
+    },
+    {
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Wolverhampton Wanderers",
+        "firstHalfScore" : 0
+      },
+      "venue" : "King Power Stadium",
+      "referee" : "Andre Marriner",
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Leicester",
+        "firstHalfScore" : 0
+      },
+      "when" : "Sunday, Aug 11 2019 14:00",
+      "time" : "FT",
+      "attendance" : "32.015"
+    },
+    {
+      "team2" : {
+        "teamScore" : 3,
+        "teamName" : "Brighton",
+        "firstHalfScore" : 1
+      },
+      "venue" : "Vicarage Road",
+      "referee" : "Craig Pawson",
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Watford",
+        "firstHalfScore" : 0
+      },
+      "when" : "Saturday, Aug 10 2019 15:00",
+      "time" : "FT",
+      "attendance" : "20.245"
+    },
+    {
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Aston Villa",
+        "firstHalfScore" : 1
+      },
+      "attendance" : "60.407",
+      "time" : "FT",
+      "referee" : "Chris Kavanagh",
+      "venue" : "Tottenham Hotspur Stadium",
+      "team1" : {
+        "teamScore" : 3,
+        "teamName" : "Tottenham",
+        "firstHalfScore" : 0
+      },
+      "when" : "Saturday, Aug 10 2019 17:30"
+    },
+    {
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Arsenal",
+        "firstHalfScore" : 0
+      },
+      "attendance" : "47.635",
+      "time" : "FT",
+      "referee" : "Martin Atkinson",
+      "venue" : "St James' Park",
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Newcastle United",
+        "firstHalfScore" : 0
+      },
+      "when" : "Sunday, Aug 11 2019 14:00"
+    },
+    {
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Chelsea",
+        "firstHalfScore" : 0
+      },
+      "attendance" : "73.620",
+      "time" : "FT",
+      "referee" : "Anthony Taylor",
+      "venue" : "Old Trafford",
+      "team1" : {
+        "teamScore" : 4,
+        "teamName" : "Manchester United",
+        "firstHalfScore" : 1
+      },
+      "when" : "Sunday, Aug 11 2019 16:30"
+    }
+  ]
+}

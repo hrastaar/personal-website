@@ -34,7 +34,7 @@ app.listen(80, () => {
 
 app.get('/api/premierleaguestandings', (req, res) => {
 
-    fs.readFile('PremierLeagueTable.json', (err, json) => {
+    fs.readFile('./json/PremierLeagueTable.json', (err, json) => {
         let obj = JSON.parse(json);
         res.json(obj);
     });

@@ -1,0 +1,175 @@
+{
+  "matches" : [
+    {
+      "when" : "Tuesday, Jan 21 2020 19:30",
+      "time" : "FT",
+      "referee" : "Martin Atkinson",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 2,
+        "teamName" : "Aston Villa"
+      },
+      "venue" : "Villa Park",
+      "attendance" : "40.867",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 1,
+        "teamName" : "Watford"
+      }
+    },
+    {
+      "when" : "Tuesday, Jan 21 2020 19:30",
+      "time" : "FT",
+      "referee" : "Kevin Friend",
+      "team1" : {
+        "firstHalfScore" : 2,
+        "teamScore" : 3,
+        "teamName" : "Bournemouth"
+      },
+      "venue" : "Vitality Stadium",
+      "attendance" : "10.065",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Brighton"
+      }
+    },
+    {
+      "when" : "Tuesday, Jan 21 2020 19:30",
+      "time" : "FT",
+      "referee" : "Simon Hooper",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 2,
+        "teamName" : "Everton"
+      },
+      "venue" : "Goodison Park",
+      "attendance" : "38.822",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 2,
+        "teamName" : "Newcastle United"
+      }
+    },
+    {
+      "when" : "Wednesday, Jan 22 2020 19:30",
+      "time" : "FT",
+      "referee" : "David Coote",
+      "team1" : {
+        "firstHalfScore" : 2,
+        "teamScore" : 4,
+        "teamName" : "Leicester"
+      },
+      "venue" : "King Power Stadium",
+      "attendance" : "31.968",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "West Ham"
+      }
+    },
+    {
+      "venue" : "Bramall Lane",
+      "when" : "Tuesday, Jan 21 2020 19:30",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Sheffield United"
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Manchester City"
+      },
+      "time" : "FT",
+      "attendance" : "31.825",
+      "referee" : "Lee Mason"
+    },
+    {
+      "venue" : "Molineux Stadium",
+      "when" : "Thursday, Jan 23 2020 20:00",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Wolverhampton Wanderers"
+      },
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 2,
+        "teamName" : "Liverpool"
+      },
+      "time" : "FT",
+      "attendance" : "31.746",
+      "referee" : "Michael Oliver"
+    },
+    {
+      "venue" : "Old Trafford",
+      "when" : "Wednesday, Jan 22 2020 20:15",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Manchester United"
+      },
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 2,
+        "teamName" : "Burnley"
+      },
+      "time" : "FT",
+      "attendance" : "73.198",
+      "referee" : "Jonathan Moss"
+    },
+    {
+      "venue" : "Stamford Bridge",
+      "when" : "Tuesday, Jan 21 2020 20:15",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 2,
+        "teamName" : "Chelsea"
+      },
+      "team2" : {
+        "teamName" : "Arsenal",
+        "firstHalfScore" : 0,
+        "redCards" : 1,
+        "teamScore" : 2
+      },
+      "time" : "FT",
+      "attendance" : "40.577",
+      "referee" : "Stuart Attwell"
+    },
+    {
+      "venue" : "Tottenham Hotspur Stadium",
+      "when" : "Wednesday, Jan 22 2020 19:30",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 2,
+        "teamName" : "Tottenham"
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Norwich"
+      },
+      "time" : "FT",
+      "attendance" : "58.182",
+      "referee" : "Chris Kavanagh"
+    },
+    {
+      "venue" : "Selhurst Park",
+      "when" : "Tuesday, Jan 21 2020 19:30",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Crystal Palace"
+      },
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 2,
+        "teamName" : "Southampton"
+      },
+      "time" : "FT",
+      "attendance" : "23.739",
+      "referee" : "Andre Marriner"
+    }
+  ]
+}

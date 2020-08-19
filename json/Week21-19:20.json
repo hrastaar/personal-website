@@ -1,0 +1,175 @@
+{
+  "matches" : [
+    {
+      "team1" : {
+        "teamScore" : 2,
+        "teamName" : "Arsenal",
+        "firstHalfScore" : 2
+      },
+      "attendance" : "60.328",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Manchester United",
+        "firstHalfScore" : 0
+      },
+      "referee" : "Chris Kavanagh",
+      "when" : "Wednesday, Jan 01 2020 20:00",
+      "venue" : "Emirates Stadium",
+      "time" : "FT"
+    },
+    {
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Brighton",
+        "firstHalfScore" : 0
+      },
+      "attendance" : "30.559",
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Chelsea",
+        "firstHalfScore" : 1
+      },
+      "referee" : "Stuart Attwell",
+      "when" : "Wednesday, Jan 01 2020 12:30",
+      "venue" : "AMEX Stadium",
+      "time" : "FT"
+    },
+    {
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Burnley",
+        "firstHalfScore" : 0
+      },
+      "attendance" : "19.561",
+      "team2" : {
+        "teamScore" : 2,
+        "teamName" : "Aston Villa",
+        "firstHalfScore" : 2
+      },
+      "referee" : "Michael Oliver",
+      "when" : "Wednesday, Jan 01 2020 12:30",
+      "venue" : "Turf Moor",
+      "time" : "FT"
+    },
+    {
+      "team1" : {
+        "teamScore" : 2,
+        "teamName" : "Liverpool",
+        "firstHalfScore" : 1
+      },
+      "attendance" : "53.321",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Sheffield United",
+        "firstHalfScore" : 0
+      },
+      "referee" : "Paul Tierney",
+      "when" : "Thursday, Jan 02 2020 20:00",
+      "venue" : "Anfield",
+      "time" : "FT"
+    },
+    {
+      "team1" : {
+        "teamScore" : 2,
+        "teamName" : "Manchester City",
+        "firstHalfScore" : 0
+      },
+      "attendance" : "54.407",
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Everton",
+        "firstHalfScore" : 0
+      },
+      "referee" : "Andre Marriner",
+      "when" : "Wednesday, Jan 01 2020 17:30",
+      "venue" : "Etihad Stadium",
+      "time" : "FT"
+    },
+    {
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Newcastle United",
+        "firstHalfScore" : 0
+      },
+      "attendance" : "52.178",
+      "team2" : {
+        "teamScore" : 3,
+        "teamName" : "Leicester",
+        "firstHalfScore" : 2
+      },
+      "referee" : "Martin Atkinson",
+      "when" : "Wednesday, Jan 01 2020 15:00",
+      "venue" : "St James' Park",
+      "time" : "FT"
+    },
+    {
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Norwich",
+        "firstHalfScore" : 1
+      },
+      "attendance" : "27.021",
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 0
+      },
+      "referee" : "Jonathan Moss",
+      "when" : "Wednesday, Jan 01 2020 17:30",
+      "venue" : "Carrow Road",
+      "time" : "FT"
+    },
+    {
+      "team1" : {
+        "teamScore" : 1,
+        "firstHalfScore" : 1,
+        "teamName" : "Southampton"
+      },
+      "attendance" : "30.976",
+      "team2" : {
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "teamName" : "Tottenham"
+      },
+      "referee" : "Mike Dean",
+      "when" : "Wednesday, Jan 01 2020 15:00",
+      "venue" : "St Mary's Stadium",
+      "time" : "FT"
+    },
+    {
+      "team2" : {
+        "teamScore" : 1,
+        "firstHalfScore" : 0,
+        "teamName" : "Wolverhampton Wanderers"
+      },
+      "attendance" : "20.584",
+      "venue" : "Vicarage Road",
+      "referee" : "Andy Madley",
+      "team1" : {
+        "teamName" : "Watford",
+        "firstHalfScore" : 1,
+        "redCards" : 1,
+        "teamScore" : 2
+      },
+      "when" : "Wednesday, Jan 01 2020 15:00",
+      "time" : "FT"
+    },
+    {
+      "team2" : {
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "teamName" : "Bournemouth"
+      },
+      "attendance" : "59.917",
+      "venue" : "London Stadium",
+      "referee" : "Graham Scott",
+      "team1" : {
+        "teamScore" : 4,
+        "firstHalfScore" : 3,
+        "teamName" : "West Ham"
+      },
+      "when" : "Wednesday, Jan 01 2020 17:30",
+      "time" : "FT"
+    }
+  ]
+}

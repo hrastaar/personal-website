@@ -1,0 +1,175 @@
+{
+  "matches" : [
+    {
+      "attendance" : "60.326",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Bournemouth",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Emirates Stadium",
+      "referee" : "Martin Atkinson",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Arsenal",
+        "firstHalfScore" : 1
+      },
+      "when" : "Sunday, Oct 06 2019 14:00"
+    },
+    {
+      "attendance" : "30.610",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Tottenham",
+        "firstHalfScore" : 0
+      },
+      "venue" : "AMEX Stadium",
+      "referee" : "Jonathan Moss",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 3,
+        "teamName" : "Brighton",
+        "firstHalfScore" : 2
+      },
+      "when" : "Saturday, Oct 05 2019 12:30"
+    },
+    {
+      "attendance" : "20.650",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Everton",
+        "redCards" : 1,
+        "teamScore" : 0
+      },
+      "venue" : "Turf Moor",
+      "referee" : "Graham Scott",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Burnley",
+        "firstHalfScore" : 0
+      },
+      "when" : "Saturday, Oct 05 2019 15:00"
+    },
+    {
+      "attendance" : "53.322",
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Leicester",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Anfield",
+      "referee" : "Chris Kavanagh",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 2,
+        "teamName" : "Liverpool",
+        "firstHalfScore" : 1
+      },
+      "when" : "Saturday, Oct 05 2019 15:00"
+    },
+    {
+      "attendance" : "54.435",
+      "team2" : {
+        "teamScore" : 2,
+        "teamName" : "Wolverhampton Wanderers",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Etihad Stadium",
+      "referee" : "Craig Pawson",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Manchester City",
+        "firstHalfScore" : 0
+      },
+      "when" : "Sunday, Oct 06 2019 14:00"
+    },
+    {
+      "attendance" : "51.198",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Manchester United",
+        "firstHalfScore" : 0
+      },
+      "venue" : "St James' Park",
+      "referee" : "Mike Dean",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Newcastle United",
+        "firstHalfScore" : 0
+      },
+      "when" : "Sunday, Oct 06 2019 16:30"
+    },
+    {
+      "attendance" : "27.045",
+      "team2" : {
+        "teamScore" : 5,
+        "teamName" : "Aston Villa",
+        "firstHalfScore" : 2
+      },
+      "venue" : "Carrow Road",
+      "referee" : "Andy Madley",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Norwich",
+        "firstHalfScore" : 0
+      },
+      "when" : "Saturday, Oct 05 2019 15:00"
+    },
+    {
+      "attendance" : "31.473",
+      "team2" : {
+        "teamScore" : 4,
+        "teamName" : "Chelsea",
+        "firstHalfScore" : 3
+      },
+      "venue" : "St Mary's Stadium",
+      "referee" : "Paul Tierney",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Southampton",
+        "firstHalfScore" : 1
+      },
+      "when" : "Sunday, Oct 06 2019 14:00"
+    },
+    {
+      "attendance" : "20.811",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Sheffield United",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Vicarage Road",
+      "referee" : "Andre Marriner",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Watford",
+        "firstHalfScore" : 0
+      },
+      "when" : "Saturday, Oct 05 2019 15:00"
+    },
+    {
+      "attendance" : "59.912",
+      "team2" : {
+        "teamScore" : 2,
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 0
+      },
+      "venue" : "London Stadium",
+      "referee" : "Michael Oliver",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "West Ham",
+        "firstHalfScore" : 0
+      },
+      "when" : "Saturday, Oct 05 2019 17:30"
+    }
+  ]
+}

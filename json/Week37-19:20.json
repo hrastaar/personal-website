@@ -1,0 +1,174 @@
+{
+  "matches" : [
+    {
+      "venue" : "Villa Park",
+      "attendance" : "Behind Closed Doors",
+      "time" : "FT",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Arsenal",
+        "firstHalfScore" : 0
+      },
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Aston Villa",
+        "firstHalfScore" : 1
+      },
+      "referee" : "Chris Kavanagh",
+      "when" : "Tuesday, Jul 21 2020 20:15"
+    },
+    {
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Bournemouth",
+        "teamScore" : 0
+      },
+      "venue" : "Vitality Stadium",
+      "attendance" : "Behind Closed Doors",
+      "time" : "FT",
+      "when" : "Sunday, Jul 19 2020 14:00",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Southampton",
+        "teamScore" : 2
+      }
+    },
+    {
+      "when" : "Monday, Jul 20 2020 18:00",
+      "referee" : "Simon Hooper",
+      "venue" : "AMEX Stadium",
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Newcastle United",
+        "firstHalfScore" : 0
+      },
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Brighton",
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "when" : "Wednesday, Jul 22 2020 20:15",
+      "referee" : "Andre Marriner",
+      "venue" : "Anfield",
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "team2" : {
+        "teamScore" : 3,
+        "teamName" : "Chelsea",
+        "firstHalfScore" : 1
+      },
+      "team1" : {
+        "teamScore" : 5,
+        "teamName" : "Liverpool",
+        "firstHalfScore" : 3
+      }
+    },
+    {
+      "when" : "Wednesday, Jul 22 2020 18:00",
+      "referee" : "Paul Tierney",
+      "venue" : "Old Trafford",
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "West Ham",
+        "firstHalfScore" : 1
+      },
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Manchester United",
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "when" : "Saturday, Jul 18 2020 17:30",
+      "referee" : "Kevin Friend",
+      "venue" : "Carrow Road",
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "team2" : {
+        "teamScore" : 2,
+        "teamName" : "Burnley",
+        "firstHalfScore" : 1
+      },
+      "team1" : {
+        "teamName" : "Norwich",
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "redCards" : 2
+      }
+    },
+    {
+      "when" : "Monday, Jul 20 2020 18:00",
+      "referee" : "Stuart Attwell",
+      "venue" : "Bramall Lane",
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Everton",
+        "firstHalfScore" : 0
+      },
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Sheffield United",
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "when" : "Sunday, Jul 19 2020 16:00",
+      "referee" : "Anthony Taylor",
+      "venue" : "Tottenham Hotspur Stadium",
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Leicester",
+        "firstHalfScore" : 0
+      },
+      "team1" : {
+        "teamScore" : 3,
+        "teamName" : "Tottenham",
+        "firstHalfScore" : 3
+      }
+    },
+    {
+      "when" : "Tuesday, Jul 21 2020 18:00",
+      "referee" : "Michael Oliver",
+      "venue" : "Vicarage Road",
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "team2" : {
+        "teamScore" : 4,
+        "teamName" : "Manchester City",
+        "firstHalfScore" : 2
+      },
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Watford",
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "when" : "Monday, Jul 20 2020 20:15",
+      "referee" : "Peter Bankes",
+      "venue" : "Molineux Stadium",
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 0
+      },
+      "team1" : {
+        "teamScore" : 2,
+        "teamName" : "Wolverhampton Wanderers",
+        "firstHalfScore" : 1
+      }
+    }
+  ]
+}

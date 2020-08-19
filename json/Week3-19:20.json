@@ -1,0 +1,175 @@
+{
+  "matches" : [
+    {
+      "attendance" : "41.922",
+      "when" : "Friday, Aug 23 2019 20:00",
+      "venue" : "Villa Park",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Aston Villa",
+        "teamScore" : 2
+      },
+      "referee" : "Michael Oliver",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Everton",
+        "teamScore" : 0
+      },
+      "time" : "FT"
+    },
+    {
+      "attendance" : "10.486",
+      "when" : "Sunday, Aug 25 2019 14:00",
+      "venue" : "Vitality Stadium",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Bournemouth",
+        "teamScore" : 1
+      },
+      "referee" : "Andre Marriner",
+      "team2" : {
+        "firstHalfScore" : 2,
+        "teamName" : "Manchester City",
+        "teamScore" : 3
+      },
+      "time" : "FT"
+    },
+    {
+      "attendance" : "30.019",
+      "when" : "Saturday, Aug 24 2019 15:00",
+      "venue" : "AMEX Stadium",
+      "team1" : {
+        "teamName" : "Brighton",
+        "redCards" : 1,
+        "teamScore" : 0,
+        "firstHalfScore" : 0
+      },
+      "referee" : "Kevin Friend",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Southampton",
+        "teamScore" : 2
+      },
+      "time" : "FT"
+    },
+    {
+      "attendance" : "20.035",
+      "when" : "Saturday, Aug 24 2019 15:00",
+      "venue" : "Vicarage Road",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Watford",
+        "teamScore" : 1
+      },
+      "referee" : "Chris Kavanagh",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "West Ham",
+        "teamScore" : 3
+      },
+      "time" : "FT"
+    },
+    {
+      "attendance" : "30.522",
+      "when" : "Sunday, Aug 25 2019 16:30",
+      "venue" : "Molineux Stadium",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Wolverhampton Wanderers",
+        "teamScore" : 1
+      },
+      "referee" : "Craig Pawson",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Burnley",
+        "teamScore" : 1
+      },
+      "time" : "FT"
+    },
+    {
+      "attendance" : "53.298",
+      "when" : "Saturday, Aug 24 2019 17:30",
+      "venue" : "Anfield",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Liverpool",
+        "teamScore" : 3
+      },
+      "referee" : "Anthony Taylor",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Arsenal",
+        "teamScore" : 1
+      },
+      "time" : "FT"
+    },
+    {
+      "attendance" : "73.454",
+      "when" : "Saturday, Aug 24 2019 15:00",
+      "venue" : "Old Trafford",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Manchester United",
+        "teamScore" : 1
+      },
+      "referee" : "Paul Tierney",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Crystal Palace",
+        "teamScore" : 2
+      },
+      "time" : "FT"
+    },
+    {
+      "attendance" : "27.032",
+      "when" : "Saturday, Aug 24 2019 12:30",
+      "venue" : "Carrow Road",
+      "team1" : {
+        "firstHalfScore" : 2,
+        "teamName" : "Norwich",
+        "teamScore" : 2
+      },
+      "referee" : "Martin Atkinson",
+      "team2" : {
+        "firstHalfScore" : 2,
+        "teamName" : "Chelsea",
+        "teamScore" : 3
+      },
+      "time" : "FT"
+    },
+    {
+      "attendance" : "30.079",
+      "when" : "Saturday, Aug 24 2019 15:00",
+      "venue" : "Bramall Lane",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Sheffield United",
+        "teamScore" : 1
+      },
+      "referee" : "Andy Madley",
+      "team2" : {
+        "teamScore" : 2,
+        "teamName" : "Leicester",
+        "firstHalfScore" : 1
+      },
+      "time" : "FT"
+    },
+    {
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Newcastle United",
+        "firstHalfScore" : 1
+      },
+      "attendance" : "59.245",
+      "referee" : "Mike Dean",
+      "time" : "FT",
+      "when" : "Sunday, Aug 25 2019 16:30",
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Tottenham",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Tottenham Hotspur Stadium"
+    }
+  ]
+}

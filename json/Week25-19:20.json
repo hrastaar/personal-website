@@ -1,0 +1,177 @@
+{
+  "matches" : [
+    {
+      "team2" : {
+        "teamScore" : 1,
+        "firstHalfScore" : 0,
+        "teamName" : "Aston Villa"
+      },
+      "referee" : "Anthony Taylor",
+      "attendance" : "10.722",
+      "venue" : "Vitality Stadium",
+      "time" : "FT",
+      "team1" : {
+        "firstHalfScore" : 2,
+        "redCards" : 1,
+        "teamName" : "Bournemouth",
+        "teamScore" : 2
+      },
+      "when" : "Saturday, Feb 01 2020 15:00"
+    },
+    {
+      "team2" : {
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "teamName" : "Arsenal"
+      },
+      "referee" : "Chris Kavanagh",
+      "attendance" : "21.048",
+      "venue" : "Turf Moor",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "teamName" : "Burnley"
+      },
+      "when" : "Sunday, Feb 02 2020 14:00"
+    },
+    {
+      "team2" : {
+        "teamScore" : 1,
+        "firstHalfScore" : 0,
+        "teamName" : "Sheffield United"
+      },
+      "referee" : "Andy Madley",
+      "attendance" : "25.170",
+      "venue" : "Selhurst Park",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "teamName" : "Crystal Palace"
+      },
+      "when" : "Saturday, Feb 01 2020 15:00"
+    },
+    {
+      "team2" : {
+        "teamScore" : 2,
+        "firstHalfScore" : 0,
+        "teamName" : "Chelsea"
+      },
+      "referee" : "Lee Mason",
+      "attendance" : "32.186",
+      "venue" : "King Power Stadium",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 2,
+        "firstHalfScore" : 0,
+        "teamName" : "Leicester"
+      },
+      "when" : "Saturday, Feb 01 2020 12:30"
+    },
+    {
+      "team2" : {
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "teamName" : "Southampton"
+      },
+      "referee" : "Kevin Friend",
+      "attendance" : "53.291",
+      "venue" : "Anfield",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 4,
+        "firstHalfScore" : 0,
+        "teamName" : "Liverpool"
+      },
+      "when" : "Saturday, Feb 01 2020 15:00"
+    },
+    {
+      "team2" : {
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "teamName" : "Wolverhampton Wanderers"
+      },
+      "referee" : "Paul Tierney",
+      "attendance" : "73.363",
+      "venue" : "Old Trafford",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "teamName" : "Manchester United"
+      },
+      "when" : "Saturday, Feb 01 2020 17:30"
+    },
+    {
+      "team2" : {
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "teamName" : "Norwich"
+      },
+      "referee" : "Martin Atkinson",
+      "attendance" : "52.204",
+      "venue" : "St James' Park",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "teamName" : "Newcastle United"
+      },
+      "when" : "Saturday, Feb 01 2020 15:00"
+    },
+    {
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Manchester City",
+        "redCards" : 1,
+        "teamScore" : 0
+      },
+      "referee" : "Mike Dean",
+      "attendance" : "61.022",
+      "venue" : "Tottenham Hotspur Stadium",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 2,
+        "firstHalfScore" : 0,
+        "teamName" : "Tottenham"
+      },
+      "when" : "Sunday, Feb 02 2020 16:30"
+    },
+    {
+      "team2" : {
+        "firstHalfScore" : 2,
+        "teamName" : "Everton",
+        "redCards" : 1,
+        "teamScore" : 3
+      },
+      "referee" : "Craig Pawson",
+      "attendance" : "21.229",
+      "venue" : "Vicarage Road",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 2,
+        "firstHalfScore" : 2,
+        "teamName" : "Watford"
+      },
+      "when" : "Saturday, Feb 01 2020 15:00"
+    },
+    {
+      "team2" : {
+        "teamScore" : 3,
+        "firstHalfScore" : 0,
+        "teamName" : "Brighton"
+      },
+      "referee" : "Michael Oliver",
+      "attendance" : "59.952",
+      "venue" : "London Stadium",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 3,
+        "firstHalfScore" : 2,
+        "teamName" : "West Ham"
+      },
+      "when" : "Saturday, Feb 01 2020 15:00"
+    }
+  ]
+}

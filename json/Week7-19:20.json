@@ -1,0 +1,176 @@
+{
+  "matches" : [
+    {
+      "when" : "Saturday, Sep 28 2019 15:00",
+      "time" : "FT",
+      "venue" : "Villa Park",
+      "attendance" : "41.546",
+      "referee" : "Lee Mason",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Aston Villa",
+        "teamScore" : 2
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Burnley",
+        "teamScore" : 2
+      }
+    },
+    {
+      "when" : "Saturday, Sep 28 2019 15:00",
+      "time" : "FT",
+      "venue" : "Vitality Stadium",
+      "attendance" : "10.729",
+      "referee" : "Stuart Attwell",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Bournemouth",
+        "teamScore" : 2
+      },
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "West Ham",
+        "teamScore" : 2
+      }
+    },
+    {
+      "when" : "Saturday, Sep 28 2019 15:00",
+      "time" : "FT",
+      "venue" : "Stamford Bridge",
+      "attendance" : "40.683",
+      "referee" : "Chris Kavanagh",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Chelsea",
+        "teamScore" : 2
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Brighton",
+        "teamScore" : 0
+      }
+    },
+    {
+      "when" : "Saturday, Sep 28 2019 15:00",
+      "time" : "FT",
+      "venue" : "Selhurst Park",
+      "attendance" : "25.477",
+      "referee" : "Jonathan Moss",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Crystal Palace",
+        "teamScore" : 2
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Norwich",
+        "teamScore" : 0
+      }
+    },
+    {
+      "when" : "Saturday, Sep 28 2019 17:30",
+      "time" : "FT",
+      "venue" : "Goodison Park",
+      "attendance" : "39.222",
+      "referee" : "Michael Oliver",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Everton",
+        "teamScore" : 1
+      },
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Manchester City",
+        "teamScore" : 3
+      }
+    },
+    {
+      "when" : "Sunday, Sep 29 2019 16:30",
+      "time" : "FT",
+      "venue" : "King Power Stadium",
+      "attendance" : "32.168",
+      "referee" : "Craig Pawson",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Leicester",
+        "teamScore" : 5
+      },
+      "team2" : {
+        "teamName" : "Newcastle United",
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "redCards" : 1
+      }
+    },
+    {
+      "when" : "Monday, Sep 30 2019 20:00",
+      "time" : "FT",
+      "venue" : "Old Trafford",
+      "attendance" : "73.201",
+      "referee" : "Kevin Friend",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Manchester United",
+        "teamScore" : 1
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Arsenal",
+        "teamScore" : 1
+      }
+    },
+    {
+      "when" : "Saturday, Sep 28 2019 12:30",
+      "time" : "FT",
+      "venue" : "Bramall Lane",
+      "attendance" : "31.774",
+      "referee" : "Anthony Taylor",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Sheffield United",
+        "teamScore" : 0
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Liverpool",
+        "teamScore" : 1
+      }
+    },
+    {
+      "when" : "Saturday, Sep 28 2019 15:00",
+      "time" : "FT",
+      "venue" : "Tottenham Hotspur Stadium",
+      "attendance" : "59.645",
+      "referee" : "Graham Scott",
+      "team1" : {
+        "firstHalfScore" : 2,
+        "teamScore" : 2,
+        "redCards" : 1,
+        "teamName" : "Tottenham"
+      },
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Southampton",
+        "teamScore" : 1
+      }
+    },
+    {
+      "when" : "Saturday, Sep 28 2019 15:00",
+      "time" : "FT",
+      "venue" : "Molineux Stadium",
+      "attendance" : "30.711",
+      "referee" : "Paul Tierney",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Wolverhampton Wanderers",
+        "teamScore" : 2
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Watford",
+        "teamScore" : 0
+      }
+    }
+  ]
+}

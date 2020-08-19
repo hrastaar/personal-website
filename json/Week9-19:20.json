@@ -1,0 +1,175 @@
+{
+  "matches" : [
+    {
+      "referee" : "David Coote",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 2,
+        "teamName" : "Aston Villa"
+      },
+      "attendance" : "41.826",
+      "when" : "Saturday, Oct 19 2019 15:00",
+      "venue" : "Villa Park",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 1,
+        "redCards" : 1,
+        "teamName" : "Brighton"
+      },
+      "time" : "FT"
+    },
+    {
+      "referee" : "Lee Mason",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Bournemouth"
+      },
+      "attendance" : "10.669",
+      "when" : "Saturday, Oct 19 2019 15:00",
+      "venue" : "Vitality Stadium",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Norwich"
+      },
+      "time" : "FT"
+    },
+    {
+      "referee" : "Andre Marriner",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Chelsea"
+      },
+      "attendance" : "40.513",
+      "when" : "Saturday, Oct 19 2019 15:00",
+      "venue" : "Stamford Bridge",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Newcastle United"
+      },
+      "time" : "FT"
+    },
+    {
+      "referee" : "Anthony Taylor",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Crystal Palace"
+      },
+      "attendance" : "25.480",
+      "when" : "Saturday, Oct 19 2019 17:30",
+      "venue" : "Selhurst Park",
+      "team2" : {
+        "firstHalfScore" : 2,
+        "teamScore" : 2,
+        "teamName" : "Manchester City"
+      },
+      "time" : "FT"
+    },
+    {
+      "referee" : "Paul Tierney",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 2,
+        "teamName" : "Everton"
+      },
+      "attendance" : "39.263",
+      "when" : "Saturday, Oct 19 2019 12:30",
+      "venue" : "Goodison Park",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "West Ham"
+      },
+      "time" : "FT"
+    },
+    {
+      "referee" : "Jonathan Moss",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 2,
+        "teamName" : "Leicester"
+      },
+      "attendance" : "32.105",
+      "when" : "Saturday, Oct 19 2019 15:00",
+      "venue" : "King Power Stadium",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 1,
+        "teamName" : "Burnley"
+      },
+      "time" : "FT"
+    },
+    {
+      "referee" : "Martin Atkinson",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 1,
+        "teamName" : "Manchester United"
+      },
+      "attendance" : "73.737",
+      "when" : "Sunday, Oct 20 2019 16:30",
+      "venue" : "Old Trafford",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Liverpool"
+      },
+      "time" : "FT"
+    },
+    {
+      "referee" : "Mike Dean",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 1,
+        "teamName" : "Sheffield United"
+      },
+      "attendance" : "30.775",
+      "when" : "Monday, Oct 21 2019 20:00",
+      "venue" : "Bramall Lane",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Arsenal"
+      },
+      "time" : "FT"
+    },
+    {
+      "referee" : "Chris Kavanagh",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Tottenham"
+      },
+      "attendance" : "58.754",
+      "when" : "Saturday, Oct 19 2019 15:00",
+      "venue" : "Tottenham Hotspur Stadium",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 1,
+        "teamName" : "Watford"
+      },
+      "time" : "FT"
+    },
+    {
+      "referee" : "Peter Bankes",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Wolverhampton Wanderers"
+      },
+      "attendance" : "30.915",
+      "when" : "Saturday, Oct 19 2019 15:00",
+      "venue" : "Molineux Stadium",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Southampton"
+      },
+      "time" : "FT"
+    }
+  ]
+}

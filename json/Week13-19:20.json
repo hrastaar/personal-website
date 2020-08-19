@@ -1,0 +1,175 @@
+{
+  "matches" : [
+    {
+      "referee" : "Stuart Attwell",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 2,
+        "teamName" : "Arsenal"
+      },
+      "time" : "FT",
+      "attendance" : "60.295",
+      "venue" : "Emirates Stadium",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 2,
+        "teamName" : "Southampton"
+      },
+      "when" : "Saturday, Nov 23 2019 15:00"
+    },
+    {
+      "referee" : "Lee Mason",
+      "team1" : {
+        "firstHalfScore" : 2,
+        "teamScore" : 2,
+        "teamName" : "Aston Villa"
+      },
+      "time" : "FT",
+      "attendance" : "41.821",
+      "venue" : "Villa Park",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Newcastle United"
+      },
+      "when" : "Monday, Nov 25 2019 20:00"
+    },
+    {
+      "referee" : "Simon Hooper",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Bournemouth",
+        "redCards" : 1
+      },
+      "time" : "FT",
+      "attendance" : "10.539",
+      "venue" : "Vitality Stadium",
+      "team2" : {
+        "firstHalfScore" : 2,
+        "teamScore" : 2,
+        "teamName" : "Wolverhampton Wanderers"
+      },
+      "when" : "Saturday, Nov 23 2019 15:00"
+    },
+    {
+      "referee" : "Mike Dean",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Brighton"
+      },
+      "time" : "FT",
+      "attendance" : "30.640",
+      "venue" : "AMEX Stadium",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 2,
+        "teamName" : "Leicester"
+      },
+      "when" : "Saturday, Nov 23 2019 15:00"
+    },
+    {
+      "referee" : "Kevin Friend",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Crystal Palace"
+      },
+      "time" : "FT",
+      "attendance" : "25.486",
+      "venue" : "Selhurst Park",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 2,
+        "teamName" : "Liverpool"
+      },
+      "when" : "Saturday, Nov 23 2019 15:00"
+    },
+    {
+      "referee" : "Anthony Taylor",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Everton"
+      },
+      "time" : "FT",
+      "attendance" : "39.241",
+      "venue" : "Goodison Park",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 2,
+        "teamName" : "Norwich"
+      },
+      "when" : "Saturday, Nov 23 2019 15:00"
+    },
+    {
+      "referee" : "Martin Atkinson",
+      "team1" : {
+        "firstHalfScore" : 2,
+        "teamScore" : 2,
+        "teamName" : "Manchester City"
+      },
+      "time" : "FT",
+      "attendance" : "54.486",
+      "venue" : "Etihad Stadium",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 1,
+        "teamName" : "Chelsea"
+      },
+      "when" : "Saturday, Nov 23 2019 17:30"
+    },
+    {
+      "referee" : "Andre Marriner",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 3,
+        "teamName" : "Sheffield United"
+      },
+      "time" : "FT",
+      "attendance" : "32.024",
+      "venue" : "Bramall Lane",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 3,
+        "teamName" : "Manchester United"
+      },
+      "when" : "Sunday, Nov 24 2019 16:30"
+    },
+    {
+      "referee" : "Paul Tierney",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Watford"
+      },
+      "time" : "FT",
+      "attendance" : "19.711",
+      "venue" : "Vicarage Road",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 3,
+        "teamName" : "Burnley"
+      },
+      "when" : "Saturday, Nov 23 2019 15:00"
+    },
+    {
+      "referee" : "Michael Oliver",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 2,
+        "teamName" : "West Ham"
+      },
+      "time" : "FT",
+      "attendance" : "59.930",
+      "venue" : "London Stadium",
+      "team2" : {
+        "firstHalfScore" : 2,
+        "teamScore" : 3,
+        "teamName" : "Tottenham"
+      },
+      "when" : "Saturday, Nov 23 2019 12:30"
+    }
+  ]
+}

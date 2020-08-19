@@ -1,0 +1,175 @@
+{
+  "matches" : [
+    {
+      "attendance" : "20.255",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "West Ham",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Turf Moor",
+      "referee" : "Kevin Friend",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 3,
+        "teamName" : "Burnley",
+        "firstHalfScore" : 2
+      },
+      "when" : "Saturday, Nov 09 2019 15:00"
+    },
+    {
+      "attendance" : "40.525",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Stamford Bridge",
+      "referee" : "Mike Dean",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 2,
+        "teamName" : "Chelsea",
+        "firstHalfScore" : 0
+      },
+      "when" : "Saturday, Nov 09 2019 12:30"
+    },
+    {
+      "attendance" : "32.209",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Arsenal",
+        "firstHalfScore" : 0
+      },
+      "venue" : "King Power Stadium",
+      "referee" : "Chris Kavanagh",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 2,
+        "teamName" : "Leicester",
+        "firstHalfScore" : 0
+      },
+      "when" : "Saturday, Nov 09 2019 17:30"
+    },
+    {
+      "attendance" : "53.324",
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Manchester City",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Anfield",
+      "referee" : "Michael Oliver",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 3,
+        "teamName" : "Liverpool",
+        "firstHalfScore" : 2
+      },
+      "when" : "Sunday, Nov 10 2019 16:30"
+    },
+    {
+      "venue" : "Old Trafford",
+      "when" : "Sunday, Nov 10 2019 14:00",
+      "referee" : "Jonathan Moss",
+      "team2" : {
+        "teamName" : "Brighton",
+        "teamScore" : 1,
+        "firstHalfScore" : 0
+      },
+      "time" : "FT",
+      "attendance" : "73.556",
+      "team1" : {
+        "teamName" : "Manchester United",
+        "teamScore" : 3,
+        "firstHalfScore" : 2
+      }
+    },
+    {
+      "venue" : "St James' Park",
+      "when" : "Saturday, Nov 09 2019 15:00",
+      "referee" : "Martin Atkinson",
+      "team2" : {
+        "teamName" : "Bournemouth",
+        "teamScore" : 1,
+        "firstHalfScore" : 1
+      },
+      "time" : "FT",
+      "attendance" : "44.424",
+      "team1" : {
+        "teamName" : "Newcastle United",
+        "teamScore" : 2,
+        "firstHalfScore" : 1
+      }
+    },
+    {
+      "venue" : "Carrow Road",
+      "when" : "Friday, Nov 08 2019 20:00",
+      "referee" : "Andre Marriner",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "redCards" : 1,
+        "teamScore" : 2,
+        "teamName" : "Watford"
+      },
+      "time" : "FT",
+      "attendance" : "27.074",
+      "team1" : {
+        "teamName" : "Norwich",
+        "teamScore" : 0,
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "venue" : "St Mary's Stadium",
+      "when" : "Saturday, Nov 09 2019 15:00",
+      "referee" : "Paul Tierney",
+      "team2" : {
+        "teamName" : "Everton",
+        "teamScore" : 2,
+        "firstHalfScore" : 1
+      },
+      "time" : "FT",
+      "attendance" : "29.754",
+      "team1" : {
+        "teamName" : "Southampton",
+        "teamScore" : 1,
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "venue" : "Tottenham Hotspur Stadium",
+      "when" : "Saturday, Nov 09 2019 15:00",
+      "referee" : "Graham Scott",
+      "team2" : {
+        "teamName" : "Sheffield United",
+        "teamScore" : 1,
+        "firstHalfScore" : 0
+      },
+      "time" : "FT",
+      "attendance" : "59.781",
+      "team1" : {
+        "teamName" : "Tottenham",
+        "teamScore" : 1,
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "venue" : "Molineux Stadium",
+      "when" : "Sunday, Nov 10 2019 14:00",
+      "referee" : "Anthony Taylor",
+      "team2" : {
+        "teamName" : "Aston Villa",
+        "teamScore" : 1,
+        "firstHalfScore" : 0
+      },
+      "time" : "FT",
+      "attendance" : "31.607",
+      "team1" : {
+        "teamName" : "Wolverhampton Wanderers",
+        "teamScore" : 2,
+        "firstHalfScore" : 1
+      }
+    }
+  ]
+}

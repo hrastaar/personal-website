@@ -1,0 +1,174 @@
+{
+  "matches" : [
+    {
+      "team1" : {
+        "teamName" : "Aston Villa",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      },
+      "when" : "Sunday, Feb 16 2020 14:00",
+      "attendance" : "41.874",
+      "time" : "FT",
+      "team2" : {
+        "teamName" : "Tottenham",
+        "firstHalfScore" : 2,
+        "teamScore" : 3
+      },
+      "referee" : "Martin Atkinson",
+      "venue" : "Villa Park"
+    },
+    {
+      "team1" : {
+        "teamName" : "Brighton",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "when" : "Saturday, Feb 08 2020 17:30",
+      "attendance" : "30.443",
+      "time" : "FT",
+      "team2" : {
+        "teamName" : "Watford",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "referee" : "Kevin Friend",
+      "venue" : "AMEX Stadium"
+    },
+    {
+      "team1" : {
+        "teamName" : "Chelsea",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "when" : "Monday, Feb 17 2020 20:00",
+      "attendance" : "40.504",
+      "time" : "FT",
+      "team2" : {
+        "teamName" : "Manchester United",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      },
+      "referee" : "Anthony Taylor",
+      "venue" : "Stamford Bridge"
+    },
+    {
+      "team1" : {
+        "teamName" : "Everton",
+        "firstHalfScore" : 1,
+        "teamScore" : 3
+      },
+      "when" : "Saturday, Feb 08 2020 12:30",
+      "attendance" : "38.987",
+      "time" : "FT",
+      "team2" : {
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "referee" : "David Coote",
+      "venue" : "Goodison Park"
+    },
+    {
+      "team1" : {
+        "teamName" : "Manchester City",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      },
+      "when" : "Wednesday, Feb 19 2020 19:30",
+      "attendance" : "52.159",
+      "time" : "FT",
+      "team2" : {
+        "teamName" : "West Ham",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "referee" : "Kevin Friend",
+      "venue" : "Etihad Stadium"
+    },
+    {
+      "team1" : {
+        "teamName" : "Norwich",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "when" : "Saturday, Feb 15 2020 17:30",
+      "attendance" : "27.110",
+      "time" : "FT",
+      "team2" : {
+        "teamName" : "Liverpool",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "referee" : "Stuart Attwell",
+      "venue" : "Carrow Road"
+    },
+    {
+      "team1" : {
+        "teamName" : "Sheffield United",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      },
+      "when" : "Sunday, Feb 09 2020 14:00",
+      "attendance" : "30.361",
+      "time" : "FT",
+      "team2" : {
+        "teamName" : "Bournemouth",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "referee" : "Jonathan Moss",
+      "venue" : "Bramall Lane"
+    },
+    {
+      "team2" : {
+        "teamName" : "Burnley",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      },
+      "attendance" : "26.302",
+      "time" : "FT",
+      "when" : "Saturday, Feb 15 2020 12:30",
+      "team1" : {
+        "teamName" : "Southampton",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "venue" : "St Mary's Stadium"
+    },
+    {
+      "team1" : {
+        "teamName" : "Wolverhampton Wanderers",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "when" : "Friday, Feb 14 2020 20:00",
+      "venue" : "Molineux Stadium",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "redCards" : 1,
+        "teamScore" : 0,
+        "teamName" : "Leicester"
+      },
+      "attendance" : "31.682",
+      "time" : "FT",
+      "referee" : "Mike Dean"
+    },
+    {
+      "team1" : {
+        "teamName" : "Arsenal",
+        "firstHalfScore" : 0,
+        "teamScore" : 4
+      },
+      "when" : "Sunday, Feb 16 2020 16:30",
+      "venue" : "Emirates Stadium",
+      "team2" : {
+        "teamName" : "Newcastle United",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "attendance" : "60.188",
+      "time" : "FT",
+      "referee" : "Lee Mason"
+    }
+  ]
+}

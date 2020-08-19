@@ -1,0 +1,174 @@
+{
+  "matches" : [
+    {
+      "referee" : "Mike Dean",
+      "time" : "FT",
+      "when" : "Saturday, Aug 17 2019 12:30",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Burnley",
+        "teamScore" : 1
+      },
+      "attendance" : "60.214",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Arsenal",
+        "teamScore" : 2
+      },
+      "venue" : "Emirates Stadium"
+    },
+    {
+      "referee" : "Martin Atkinson",
+      "time" : "FT",
+      "when" : "Saturday, Aug 17 2019 15:00",
+      "team2" : {
+        "teamScore" : 2,
+        "teamName" : "Bournemouth",
+        "firstHalfScore" : 2
+      },
+      "attendance" : "40.996",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Aston Villa",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Villa Park"
+    },
+    {
+      "referee" : "Anthony Taylor",
+      "time" : "FT",
+      "when" : "Saturday, Aug 17 2019 15:00",
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "West Ham",
+        "firstHalfScore" : 0
+      },
+      "attendance" : "30.459",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Brighton",
+        "firstHalfScore" : 0
+      },
+      "venue" : "AMEX Stadium"
+    },
+    {
+      "referee" : "Graham Scott",
+      "time" : "FT",
+      "when" : "Sunday, Aug 18 2019 16:30",
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Leicester",
+        "firstHalfScore" : 0
+      },
+      "attendance" : "40.629",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Chelsea",
+        "firstHalfScore" : 1
+      },
+      "venue" : "Stamford Bridge"
+    },
+    {
+      "referee" : "Lee Mason",
+      "time" : "FT",
+      "when" : "Saturday, Aug 17 2019 15:00",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Watford",
+        "firstHalfScore" : 0
+      },
+      "attendance" : "39.066",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Everton",
+        "firstHalfScore" : 1
+      },
+      "venue" : "Goodison Park"
+    },
+    {
+      "referee" : "Michael Oliver",
+      "time" : "FT",
+      "when" : "Saturday, Aug 17 2019 17:30",
+      "team2" : {
+        "teamScore" : 2,
+        "teamName" : "Tottenham",
+        "firstHalfScore" : 1
+      },
+      "attendance" : "54.503",
+      "team1" : {
+        "teamScore" : 2,
+        "teamName" : "Manchester City",
+        "firstHalfScore" : 2
+      },
+      "venue" : "Etihad Stadium"
+    },
+    {
+      "referee" : "Stuart Attwell",
+      "time" : "FT",
+      "when" : "Saturday, Aug 17 2019 15:00",
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Newcastle United",
+        "firstHalfScore" : 0
+      },
+      "attendance" : "27.059",
+      "team1" : {
+        "teamScore" : 3,
+        "teamName" : "Norwich",
+        "firstHalfScore" : 1
+      },
+      "venue" : "Carrow Road"
+    },
+    {
+      "referee" : "David Coote",
+      "time" : "FT",
+      "when" : "Sunday, Aug 18 2019 14:00",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 0
+      },
+      "attendance" : "30.197",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Sheffield United",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Bramall Lane"
+    },
+    {
+      "referee" : "Andre Marriner",
+      "time" : "FT",
+      "when" : "Saturday, Aug 17 2019 15:00",
+      "team2" : {
+        "teamScore" : 2,
+        "teamName" : "Liverpool",
+        "firstHalfScore" : 1
+      },
+      "attendance" : "31.712",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Southampton",
+        "firstHalfScore" : 0
+      },
+      "venue" : "St Mary's Stadium"
+    },
+    {
+      "referee" : "Jonathan Moss",
+      "time" : "FT",
+      "when" : "Monday, Aug 19 2019 20:00",
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Manchester United",
+        "firstHalfScore" : 1
+      },
+      "attendance" : "31.314",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Wolverhampton Wanderers",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Molineux Stadium"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "matches" : [
+    {
+      "when" : "Saturday, Nov 30 2019 15:00",
+      "time" : "FT",
+      "venue" : "Turf Moor",
+      "attendance" : "19.818",
+      "referee" : "Peter Bankes",
+      "team1" : {
+        "teamName" : "Burnley",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "team2" : {
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      }
+    },
+    {
+      "when" : "Saturday, Nov 30 2019 15:00",
+      "time" : "FT",
+      "venue" : "Stamford Bridge",
+      "attendance" : "40.595",
+      "referee" : "Jonathan Moss",
+      "team1" : {
+        "teamName" : "Chelsea",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "team2" : {
+        "teamName" : "West Ham",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      }
+    },
+    {
+      "when" : "Sunday, Dec 01 2019 16:30",
+      "time" : "FT",
+      "venue" : "King Power Stadium",
+      "attendance" : "32.144",
+      "referee" : "Graham Scott",
+      "team1" : {
+        "teamName" : "Leicester",
+        "firstHalfScore" : 0,
+        "teamScore" : 2
+      },
+      "team2" : {
+        "teamName" : "Everton",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      }
+    },
+    {
+      "when" : "Saturday, Nov 30 2019 15:00",
+      "time" : "FT",
+      "venue" : "Anfield",
+      "attendance" : "53.319",
+      "referee" : "Martin Atkinson",
+      "team1" : {
+        "firstHalfScore" : 2,
+        "redCards" : 1,
+        "teamScore" : 2,
+        "teamName" : "Liverpool"
+      },
+      "team2" : {
+        "teamName" : "Brighton",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      }
+    },
+    {
+      "when" : "Sunday, Dec 01 2019 16:30",
+      "time" : "FT",
+      "venue" : "Old Trafford",
+      "attendance" : "73.381",
+      "referee" : "Craig Pawson",
+      "team1" : {
+        "teamName" : "Manchester United",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      },
+      "team2" : {
+        "teamName" : "Aston Villa",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      }
+    },
+    {
+      "when" : "Saturday, Nov 30 2019 12:30",
+      "time" : "FT",
+      "venue" : "St James' Park",
+      "attendance" : "49.937",
+      "referee" : "Chris Kavanagh",
+      "team1" : {
+        "teamName" : "Newcastle United",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      },
+      "team2" : {
+        "teamName" : "Manchester City",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      }
+    },
+    {
+      "when" : "Sunday, Dec 01 2019 14:00",
+      "time" : "FT",
+      "venue" : "Carrow Road",
+      "attendance" : "27.067",
+      "referee" : "Paul Tierney",
+      "team1" : {
+        "teamName" : "Norwich",
+        "firstHalfScore" : 2,
+        "teamScore" : 2
+      },
+      "team2" : {
+        "teamName" : "Arsenal",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      }
+    },
+    {
+      "when" : "Saturday, Nov 30 2019 17:30",
+      "time" : "FT",
+      "venue" : "St Mary's Stadium",
+      "attendance" : "26.929",
+      "referee" : "Michael Oliver",
+      "team1" : {
+        "teamName" : "Southampton",
+        "firstHalfScore" : 0,
+        "teamScore" : 2
+      },
+      "team2" : {
+        "teamName" : "Watford",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      }
+    },
+    {
+      "when" : "Saturday, Nov 30 2019 15:00",
+      "time" : "FT",
+      "venue" : "Tottenham Hotspur Stadium",
+      "attendance" : "59.626",
+      "referee" : "Lee Mason",
+      "team1" : {
+        "teamName" : "Tottenham",
+        "firstHalfScore" : 1,
+        "teamScore" : 3
+      },
+      "team2" : {
+        "teamName" : "Bournemouth",
+        "firstHalfScore" : 0,
+        "teamScore" : 2
+      }
+    },
+    {
+      "when" : "Sunday, Dec 01 2019 14:00",
+      "time" : "FT",
+      "venue" : "Molineux Stadium",
+      "attendance" : "31.642",
+      "referee" : "David Coote",
+      "team1" : {
+        "teamName" : "Wolverhampton Wanderers",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "team2" : {
+        "teamName" : "Sheffield United",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      }
+    }
+  ]
+}

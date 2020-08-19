@@ -1,0 +1,175 @@
+{
+  "matches" : [
+    {
+      "venue" : "Emirates Stadium",
+      "team1" : {
+        "teamName" : "Arsenal",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "when" : "Sunday, Dec 29 2019 14:00",
+      "referee" : "Craig Pawson",
+      "time" : "FT",
+      "attendance" : "60.309",
+      "team2" : {
+        "teamName" : "Chelsea",
+        "firstHalfScore" : 0,
+        "teamScore" : 2
+      }
+    },
+    {
+      "venue" : "AMEX Stadium",
+      "team1" : {
+        "teamName" : "Brighton",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      },
+      "when" : "Saturday, Dec 28 2019 12:30",
+      "referee" : "Paul Tierney",
+      "time" : "FT",
+      "attendance" : "30.441",
+      "team2" : {
+        "teamName" : "Bournemouth",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      }
+    },
+    {
+      "venue" : "Turf Moor",
+      "team1" : {
+        "teamName" : "Burnley",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "when" : "Saturday, Dec 28 2019 19:45",
+      "referee" : "Mike Dean",
+      "time" : "FT",
+      "attendance" : "21.924",
+      "team2" : {
+        "teamName" : "Manchester United",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      }
+    },
+    {
+      "venue" : "Anfield",
+      "team1" : {
+        "teamName" : "Liverpool",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "when" : "Sunday, Dec 29 2019 16:30",
+      "referee" : "Anthony Taylor",
+      "time" : "FT",
+      "attendance" : "53.326",
+      "team2" : {
+        "teamName" : "Wolverhampton Wanderers",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      }
+    },
+    {
+      "venue" : "Etihad Stadium",
+      "team1" : {
+        "teamName" : "Manchester City",
+        "firstHalfScore" : 0,
+        "teamScore" : 2
+      },
+      "when" : "Sunday, Dec 29 2019 18:00",
+      "referee" : "Chris Kavanagh",
+      "time" : "FT",
+      "attendance" : "54.512",
+      "team2" : {
+        "teamName" : "Sheffield United",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      }
+    },
+    {
+      "venue" : "St James' Park",
+      "team1" : {
+        "teamName" : "Newcastle United",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "when" : "Saturday, Dec 28 2019 15:00",
+      "referee" : "Lee Mason",
+      "time" : "FT",
+      "attendance" : "52.211",
+      "team2" : {
+        "teamName" : "Everton",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      }
+    },
+    {
+      "venue" : "Carrow Road",
+      "team1" : {
+        "teamName" : "Norwich",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      },
+      "when" : "Saturday, Dec 28 2019 17:30",
+      "referee" : "Kevin Friend",
+      "time" : "FT",
+      "attendance" : "27.027",
+      "team2" : {
+        "teamName" : "Tottenham",
+        "firstHalfScore" : 0,
+        "teamScore" : 2
+      }
+    },
+    {
+      "venue" : "St Mary's Stadium",
+      "team1" : {
+        "teamName" : "Southampton",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "when" : "Saturday, Dec 28 2019 15:00",
+      "referee" : "Andy Madley",
+      "time" : "FT",
+      "attendance" : "31.108",
+      "team2" : {
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      }
+    },
+    {
+      "venue" : "Vicarage Road",
+      "team1" : {
+        "redCards" : 1,
+        "teamName" : "Watford",
+        "teamScore" : 3,
+        "firstHalfScore" : 1
+      },
+      "when" : "Saturday, Dec 28 2019 15:00",
+      "referee" : "Simon Hooper",
+      "time" : "FT",
+      "attendance" : "21.348",
+      "team2" : {
+        "teamName" : "Aston Villa",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      }
+    },
+    {
+      "venue" : "London Stadium",
+      "team1" : {
+        "teamName" : "West Ham",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "when" : "Saturday, Dec 28 2019 17:30",
+      "referee" : "David Coote",
+      "time" : "FT",
+      "attendance" : "59.919",
+      "team2" : {
+        "teamName" : "Leicester",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      }
+    }
+  ]
+}

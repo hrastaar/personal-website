@@ -1,0 +1,176 @@
+{
+  "matches" : [
+    {
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Aston Villa",
+        "teamScore" : 2
+      },
+      "attendance" : "60.331",
+      "venue" : "Emirates Stadium",
+      "referee" : "Jonathan Moss",
+      "team1" : {
+        "teamScore" : 3,
+        "firstHalfScore" : 0,
+        "redCards" : 1,
+        "teamName" : "Arsenal"
+      },
+      "when" : "Sunday, Sep 22 2019 16:30",
+      "time" : "FT"
+    },
+    {
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Norwich",
+        "teamScore" : 0
+      },
+      "attendance" : "19.712",
+      "venue" : "Turf Moor",
+      "referee" : "David Coote",
+      "team1" : {
+        "firstHalfScore" : 2,
+        "teamName" : "Burnley",
+        "teamScore" : 2
+      },
+      "when" : "Saturday, Sep 21 2019 15:00",
+      "time" : "FT"
+    },
+    {
+      "team2" : {
+        "teamName" : "Liverpool",
+        "firstHalfScore" : 2,
+        "teamScore" : 2
+      },
+      "attendance" : "40.638",
+      "venue" : "Stamford Bridge",
+      "referee" : "Michael Oliver",
+      "team1" : {
+        "teamName" : "Chelsea",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "when" : "Sunday, Sep 22 2019 16:30",
+      "time" : "FT"
+    },
+    {
+      "team2" : {
+        "teamName" : "Wolverhampton Wanderers",
+        "firstHalfScore" : 0,
+        "redCards" : 1,
+        "teamScore" : 1
+      },
+      "venue" : "Selhurst Park",
+      "referee" : "Stuart Attwell",
+      "team1" : {
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "when" : "Sunday, Sep 22 2019 14:00",
+      "time" : "FT",
+      "attendance" : "25.122"
+    },
+    {
+      "team2" : {
+        "teamName" : "Sheffield United",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      },
+      "venue" : "Goodison Park",
+      "referee" : "Simon Hooper",
+      "team1" : {
+        "teamName" : "Everton",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "when" : "Saturday, Sep 21 2019 15:00",
+      "time" : "FT",
+      "attendance" : "39.354"
+    },
+    {
+      "team2" : {
+        "teamName" : "Tottenham",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "venue" : "King Power Stadium",
+      "referee" : "Paul Tierney",
+      "team1" : {
+        "teamName" : "Leicester",
+        "firstHalfScore" : 0,
+        "teamScore" : 2
+      },
+      "when" : "Saturday, Sep 21 2019 12:30",
+      "time" : "FT",
+      "attendance" : "32.129"
+    },
+    {
+      "team2" : {
+        "teamName" : "Watford",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "venue" : "Etihad Stadium",
+      "referee" : "Mike Dean",
+      "team1" : {
+        "teamName" : "Manchester City",
+        "firstHalfScore" : 5,
+        "teamScore" : 8
+      },
+      "when" : "Saturday, Sep 21 2019 15:00",
+      "time" : "FT",
+      "attendance" : "54.273"
+    },
+    {
+      "team2" : {
+        "teamName" : "Brighton",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "venue" : "St James' Park",
+      "referee" : "Martin Atkinson",
+      "team1" : {
+        "teamName" : "Newcastle United",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "when" : "Saturday, Sep 21 2019 17:30",
+      "time" : "FT",
+      "attendance" : "43.316"
+    },
+    {
+      "team2" : {
+        "teamName" : "Bournemouth",
+        "firstHalfScore" : 2,
+        "teamScore" : 3
+      },
+      "venue" : "St Mary's Stadium",
+      "referee" : "Chris Kavanagh",
+      "team1" : {
+        "teamName" : "Southampton",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "when" : "Friday, Sep 20 2019 20:00",
+      "time" : "FT",
+      "attendance" : "30.168"
+    },
+    {
+      "team2" : {
+        "teamName" : "Manchester United",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "venue" : "London Stadium",
+      "referee" : "Anthony Taylor",
+      "team1" : {
+        "teamName" : "West Ham",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      },
+      "when" : "Sunday, Sep 22 2019 14:00",
+      "time" : "FT",
+      "attendance" : "59.936"
+    }
+  ]
+}

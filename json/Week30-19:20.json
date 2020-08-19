@@ -1,0 +1,174 @@
+{
+  "matches" : [
+    {
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Bournemouth"
+      },
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "referee" : "Stuart Attwell",
+      "venue" : "Vitality Stadium",
+      "when" : "Saturday, Jun 20 2020 19:45",
+      "team2" : {
+        "firstHalfScore" : 2,
+        "teamScore" : 2,
+        "teamName" : "Crystal Palace"
+      }
+    },
+    {
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 2,
+        "teamName" : "Brighton"
+      },
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "referee" : "Martin Atkinson",
+      "venue" : "AMEX Stadium",
+      "when" : "Saturday, Jun 20 2020 15:00",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Arsenal"
+      }
+    },
+    {
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "venue" : "Goodison Park",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Everton"
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Liverpool"
+      },
+      "when" : "Sunday, Jun 21 2020 19:00"
+    },
+    {
+      "attendance" : "Behind Closed Doors",
+      "time" : "FT",
+      "when" : "Monday, Jun 22 2020 20:00",
+      "venue" : "Etihad Stadium",
+      "team1" : {
+        "firstHalfScore" : 3,
+        "teamScore" : 5,
+        "teamName" : "Manchester City"
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Burnley"
+      },
+      "referee" : "Andre Marriner"
+    },
+    {
+      "attendance" : "Behind Closed Doors",
+      "time" : "FT",
+      "when" : "Sunday, Jun 21 2020 14:00",
+      "venue" : "St James' Park",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 3,
+        "teamName" : "Newcastle United"
+      },
+      "team2" : {
+        "redCards" : 1,
+        "teamName" : "Sheffield United",
+        "teamScore" : 0,
+        "firstHalfScore" : 0
+      },
+      "referee" : "David Coote"
+    },
+    {
+      "attendance" : "Behind Closed Doors",
+      "time" : "FT",
+      "when" : "Friday, Jun 19 2020 18:00",
+      "venue" : "Carrow Road",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Norwich"
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 3,
+        "teamName" : "Southampton"
+      },
+      "referee" : "Kevin Friend"
+    },
+    {
+      "attendance" : "Behind Closed Doors",
+      "time" : "FT",
+      "when" : "Friday, Jun 19 2020 20:15",
+      "venue" : "Tottenham Hotspur Stadium",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 1,
+        "teamName" : "Tottenham"
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Manchester United"
+      },
+      "referee" : "Jonathan Moss"
+    },
+    {
+      "attendance" : "Behind Closed Doors",
+      "time" : "FT",
+      "when" : "Saturday, Jun 20 2020 12:30",
+      "venue" : "Vicarage Road",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Watford"
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Leicester"
+      },
+      "referee" : "Craig Pawson"
+    },
+    {
+      "attendance" : "Behind Closed Doors",
+      "time" : "FT",
+      "when" : "Saturday, Jun 20 2020 17:30",
+      "venue" : "London Stadium",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "West Ham"
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 2,
+        "teamName" : "Wolverhampton Wanderers"
+      },
+      "referee" : "Anthony Taylor"
+    },
+    {
+      "attendance" : "Behind Closed Doors",
+      "time" : "FT",
+      "when" : "Sunday, Jun 21 2020 16:15",
+      "venue" : "Villa Park",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 1,
+        "teamName" : "Aston Villa"
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 2,
+        "teamName" : "Chelsea"
+      },
+      "referee" : "Paul Tierney"
+    }
+  ]
+}

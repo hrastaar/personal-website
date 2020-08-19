@@ -1,0 +1,174 @@
+{
+  "matches" : [
+    {
+      "referee" : "Paul Tierney",
+      "team2" : {
+        "teamName" : "Manchester City",
+        "firstHalfScore" : 3,
+        "teamScore" : 3
+      },
+      "when" : "Sunday, Dec 15 2019 16:30",
+      "venue" : "Emirates Stadium",
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Arsenal",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "attendance" : "60.031"
+    },
+    {
+      "referee" : "Tim Robinson",
+      "team2" : {
+        "teamName" : "Newcastle United",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "when" : "Saturday, Dec 14 2019 15:00",
+      "venue" : "Turf Moor",
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Burnley",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "attendance" : "19.798"
+    },
+    {
+      "referee" : "Graham Scott",
+      "team2" : {
+        "teamName" : "Bournemouth",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "when" : "Saturday, Dec 14 2019 15:00",
+      "venue" : "Stamford Bridge",
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Chelsea",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "attendance" : "40.243"
+    },
+    {
+      "referee" : "Craig Pawson",
+      "team2" : {
+        "teamName" : "Brighton",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "when" : "Monday, Dec 16 2019 19:45",
+      "venue" : "Selhurst Park",
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "attendance" : "24.175"
+    },
+    {
+      "referee" : "Andy Madley",
+      "team2" : {
+        "teamName" : "Norwich",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "when" : "Saturday, Dec 14 2019 15:00",
+      "venue" : "King Power Stadium",
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Leicester",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "attendance" : "32.101"
+    },
+    {
+      "referee" : "Andre Marriner",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Watford"
+      },
+      "when" : "Saturday, Dec 14 2019 12:30",
+      "venue" : "Anfield",
+      "time" : "FT",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 2,
+        "teamName" : "Liverpool"
+      },
+      "attendance" : "53.311"
+    },
+    {
+      "referee" : "Michael Oliver",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 1,
+        "teamName" : "Everton"
+      },
+      "when" : "Sunday, Dec 15 2019 14:00",
+      "venue" : "Old Trafford",
+      "time" : "FT",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Manchester United"
+      },
+      "attendance" : "63.328"
+    },
+    {
+      "referee" : "Peter Bankes",
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Aston Villa"
+      },
+      "when" : "Saturday, Dec 14 2019 15:00",
+      "venue" : "Bramall Lane",
+      "time" : "FT",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 2,
+        "teamName" : "Sheffield United"
+      },
+      "attendance" : "30.396"
+    },
+    {
+      "referee" : "Martin Atkinson",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 1,
+        "teamName" : "West Ham"
+      },
+      "when" : "Saturday, Dec 14 2019 17:30",
+      "venue" : "St Mary's Stadium",
+      "time" : "FT",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Southampton"
+      },
+      "attendance" : "27.701"
+    },
+    {
+      "referee" : "Stuart Attwell",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 2,
+        "teamName" : "Tottenham"
+      },
+      "when" : "Sunday, Dec 15 2019 14:00",
+      "venue" : "Molineux Stadium",
+      "time" : "FT",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Wolverhampton Wanderers"
+      },
+      "attendance" : "31.674"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "matches" : [
+    {
+      "team1" : {
+        "firstHalfScore" : 3,
+        "teamName" : "Arsenal",
+        "teamScore" : 3
+      },
+      "venue" : "Emirates Stadium",
+      "attendance" : "Behind Closed Doors",
+      "time" : "FT",
+      "when" : "Sunday, Jul 26 2020 16:00",
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Watford",
+        "teamScore" : 2
+      }
+    },
+    {
+      "venue" : "Turf Moor",
+      "team2" : {
+        "teamScore" : 2,
+        "teamName" : "Brighton",
+        "firstHalfScore" : 1
+      },
+      "time" : "FT",
+      "when" : "Sunday, Jul 26 2020 16:00",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Burnley",
+        "firstHalfScore" : 1
+      },
+      "referee" : "Jonathan Moss",
+      "attendance" : "Behind Closed Doors"
+    },
+    {
+      "venue" : "Stamford Bridge",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Wolverhampton Wanderers",
+        "firstHalfScore" : 0
+      },
+      "time" : "FT",
+      "when" : "Sunday, Jul 26 2020 16:00",
+      "team1" : {
+        "teamScore" : 2,
+        "teamName" : "Chelsea",
+        "firstHalfScore" : 2
+      },
+      "referee" : "Stuart Attwell",
+      "attendance" : "Behind Closed Doors"
+    },
+    {
+      "time" : "FT",
+      "venue" : "Selhurst Park",
+      "when" : "Sunday, Jul 26 2020 16:00",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 0
+      },
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Tottenham",
+        "firstHalfScore" : 1
+      },
+      "attendance" : "Behind Closed Doors"
+    },
+    {
+      "when" : "Sunday, Jul 26 2020 16:00",
+      "time" : "FT",
+      "team2" : {
+        "teamScore" : 3,
+        "teamName" : "Bournemouth",
+        "firstHalfScore" : 2
+      },
+      "referee" : "Chris Kavanagh",
+      "attendance" : "Behind Closed Doors",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Everton",
+        "firstHalfScore" : 1
+      },
+      "venue" : "Goodison Park"
+    },
+    {
+      "attendance" : "Behind Closed Doors",
+      "team2" : {
+        "teamScore" : 2,
+        "teamName" : "Manchester United",
+        "firstHalfScore" : 0
+      },
+      "when" : "Sunday, Jul 26 2020 16:00",
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Leicester",
+        "firstHalfScore" : 0,
+        "redCards" : 1
+      },
+      "venue" : "King Power Stadium",
+      "time" : "FT"
+    },
+    {
+      "team1" : {
+        "teamScore" : 5,
+        "teamName" : "Manchester City",
+        "firstHalfScore" : 2
+      },
+      "venue" : "Etihad Stadium",
+      "attendance" : "Behind Closed Doors",
+      "referee" : "Craig Pawson",
+      "when" : "Sunday, Jul 26 2020 16:00",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Norwich",
+        "firstHalfScore" : 0
+      },
+      "time" : "FT"
+    },
+    {
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Newcastle United",
+        "firstHalfScore" : 1
+      },
+      "venue" : "St James' Park",
+      "attendance" : "Behind Closed Doors",
+      "referee" : "Anthony Taylor",
+      "when" : "Sunday, Jul 26 2020 16:00",
+      "team2" : {
+        "teamScore" : 3,
+        "teamName" : "Liverpool",
+        "firstHalfScore" : 1
+      },
+      "time" : "FT"
+    },
+    {
+      "when" : "Sunday, Jul 26 2020 16:00",
+      "team1" : {
+        "teamScore" : 3,
+        "teamName" : "Southampton",
+        "firstHalfScore" : 0
+      },
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Sheffield United",
+        "firstHalfScore" : 1
+      },
+      "venue" : "St Mary's Stadium",
+      "attendance" : "Behind Closed Doors",
+      "time" : "FT"
+    },
+    {
+      "when" : "Sunday, Jul 26 2020 16:00",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "West Ham",
+        "firstHalfScore" : 0
+      },
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Aston Villa",
+        "firstHalfScore" : 0
+      },
+      "venue" : "London Stadium",
+      "attendance" : "Behind Closed Doors",
+      "time" : "FT"
+    }
+  ]
+}

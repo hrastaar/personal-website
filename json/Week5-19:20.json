@@ -1,0 +1,176 @@
+{
+  "matches" : [
+    {
+      "team2" : {
+        "teamName" : "West Ham",
+        "redCards" : 1,
+        "teamScore" : 0,
+        "firstHalfScore" : 0
+      },
+      "attendance" : "42.010",
+      "venue" : "Villa Park",
+      "referee" : "Mike Dean",
+      "team1" : {
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "teamName" : "Aston Villa"
+      },
+      "when" : "Monday, Sep 16 2019 20:00",
+      "time" : "FT"
+    },
+    {
+      "team2" : {
+        "teamScore" : 1,
+        "firstHalfScore" : 1,
+        "teamName" : "Everton"
+      },
+      "attendance" : "10.416",
+      "venue" : "Vitality Stadium",
+      "referee" : "Paul Tierney",
+      "team1" : {
+        "teamScore" : 3,
+        "firstHalfScore" : 1,
+        "teamName" : "Bournemouth"
+      },
+      "when" : "Sunday, Sep 15 2019 14:00",
+      "time" : "FT"
+    },
+    {
+      "team2" : {
+        "teamScore" : 1,
+        "firstHalfScore" : 0,
+        "teamName" : "Burnley"
+      },
+      "attendance" : "29.398",
+      "venue" : "AMEX Stadium",
+      "referee" : "Michael Oliver",
+      "team1" : {
+        "teamScore" : 1,
+        "firstHalfScore" : 0,
+        "teamName" : "Brighton"
+      },
+      "when" : "Saturday, Sep 14 2019 15:00",
+      "time" : "FT"
+    },
+    {
+      "team2" : {
+        "teamScore" : 1,
+        "firstHalfScore" : 1,
+        "teamName" : "Newcastle United"
+      },
+      "attendance" : "51.430",
+      "venue" : "Anfield",
+      "referee" : "Andre Marriner",
+      "team1" : {
+        "firstHalfScore" : 2,
+        "teamName" : "Liverpool",
+        "teamScore" : 3
+      },
+      "when" : "Saturday, Sep 14 2019 12:30",
+      "time" : "FT"
+    },
+    {
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Leicester",
+        "teamScore" : 0
+      },
+      "attendance" : "73.454",
+      "venue" : "Old Trafford",
+      "referee" : "Martin Atkinson",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Manchester United",
+        "teamScore" : 1
+      },
+      "when" : "Saturday, Sep 14 2019 15:00",
+      "time" : "FT"
+    },
+    {
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Manchester City",
+        "teamScore" : 2
+      },
+      "attendance" : "27.035",
+      "venue" : "Carrow Road",
+      "referee" : "Kevin Friend",
+      "team1" : {
+        "firstHalfScore" : 2,
+        "teamName" : "Norwich",
+        "teamScore" : 3
+      },
+      "when" : "Saturday, Sep 14 2019 17:30",
+      "time" : "FT"
+    },
+    {
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Southampton",
+        "teamScore" : 1
+      },
+      "attendance" : "30.985",
+      "venue" : "Bramall Lane",
+      "referee" : "Lee Mason",
+      "team1" : {
+        "teamName" : "Sheffield United",
+        "firstHalfScore" : 0,
+        "redCards" : 1,
+        "teamScore" : 0
+      },
+      "when" : "Saturday, Sep 14 2019 15:00",
+      "time" : "FT"
+    },
+    {
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Crystal Palace",
+        "teamScore" : 0
+      },
+      "attendance" : "59.812",
+      "venue" : "Tottenham Hotspur Stadium",
+      "referee" : "Craig Pawson",
+      "team1" : {
+        "firstHalfScore" : 4,
+        "teamName" : "Tottenham",
+        "teamScore" : 4
+      },
+      "when" : "Saturday, Sep 14 2019 15:00",
+      "time" : "FT"
+    },
+    {
+      "team2" : {
+        "firstHalfScore" : 2,
+        "teamName" : "Arsenal",
+        "teamScore" : 2
+      },
+      "attendance" : "21.360",
+      "venue" : "Vicarage Road",
+      "referee" : "Anthony Taylor",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Watford",
+        "teamScore" : 2
+      },
+      "when" : "Sunday, Sep 15 2019 16:30",
+      "time" : "FT"
+    },
+    {
+      "team2" : {
+        "firstHalfScore" : 3,
+        "teamName" : "Chelsea",
+        "teamScore" : 5
+      },
+      "attendance" : "31.534",
+      "venue" : "Molineux Stadium",
+      "referee" : "Graham Scott",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Wolverhampton Wanderers",
+        "teamScore" : 2
+      },
+      "when" : "Saturday, Sep 14 2019 15:00",
+      "time" : "FT"
+    }
+  ]
+}

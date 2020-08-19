@@ -1,0 +1,174 @@
+{
+  "matches" : [
+    {
+      "referee" : "Paul Tierney",
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "when" : "Wednesday, Jul 15 2020 20:15",
+      "team1" : {
+        "teamScore" : 2,
+        "teamName" : "Arsenal",
+        "firstHalfScore" : 2
+      },
+      "venue" : "Emirates Stadium",
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Liverpool",
+        "firstHalfScore" : 1
+      }
+    },
+    {
+      "referee" : "Mike Dean",
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "when" : "Wednesday, Jul 15 2020 18:00",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Burnley",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Turf Moor",
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Wolverhampton Wanderers",
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "referee" : "Jonathan Moss",
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "when" : "Tuesday, Jul 14 2020 20:15",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Chelsea",
+        "firstHalfScore" : 1
+      },
+      "venue" : "Stamford Bridge",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Norwich",
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "referee" : "Graham Scott",
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "when" : "Thursday, Jul 16 2020 20:15",
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Selhurst Park",
+      "team2" : {
+        "teamScore" : 2,
+        "teamName" : "Manchester United",
+        "firstHalfScore" : 1
+      }
+    },
+    {
+      "referee" : "Anthony Taylor",
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "when" : "Thursday, Jul 16 2020 18:00",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Everton",
+        "firstHalfScore" : 0
+      },
+      "venue" : "Goodison Park",
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Aston Villa",
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "referee" : "Michael Oliver",
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "when" : "Thursday, Jul 16 2020 18:00",
+      "team1" : {
+        "teamScore" : 2,
+        "teamName" : "Leicester",
+        "firstHalfScore" : 1
+      },
+      "venue" : "King Power Stadium",
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Sheffield United",
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "referee" : "Lee Mason",
+      "time" : "FT",
+      "attendance" : "Behind Closed Doors",
+      "when" : "Wednesday, Jul 15 2020 18:00",
+      "team1" : {
+        "teamName" : "Manchester City",
+        "teamScore" : 2,
+        "firstHalfScore" : 2
+      },
+      "venue" : "Etihad Stadium",
+      "team2" : {
+        "teamName" : "Bournemouth",
+        "teamScore" : 1,
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Newcastle United",
+        "teamScore" : 1,
+        "firstHalfScore" : 0
+      },
+      "attendance" : "Behind Closed Doors",
+      "venue" : "St James' Park",
+      "team2" : {
+        "teamName" : "Tottenham",
+        "teamScore" : 3,
+        "firstHalfScore" : 1
+      },
+      "when" : "Wednesday, Jul 15 2020 18:00",
+      "referee" : "David Coote"
+    },
+    {
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Southampton",
+        "teamScore" : 1,
+        "firstHalfScore" : 0
+      },
+      "attendance" : "Behind Closed Doors",
+      "venue" : "St Mary's Stadium",
+      "team2" : {
+        "teamName" : "Brighton",
+        "teamScore" : 1,
+        "firstHalfScore" : 1
+      },
+      "when" : "Thursday, Jul 16 2020 20:15",
+      "referee" : "Andre Marriner"
+    },
+    {
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "West Ham",
+        "teamScore" : 3,
+        "firstHalfScore" : 3
+      },
+      "attendance" : "Behind Closed Doors",
+      "venue" : "London Stadium",
+      "team2" : {
+        "teamName" : "Watford",
+        "teamScore" : 1,
+        "firstHalfScore" : 0
+      },
+      "when" : "Friday, Jul 17 2020 20:00",
+      "referee" : "Martin Atkinson"
+    }
+  ]
+}

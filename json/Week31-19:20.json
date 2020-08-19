@@ -1,0 +1,176 @@
+{
+  "matches" : [
+    {
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Watford",
+        "firstHalfScore" : 0
+      },
+      "when" : "Thursday, Jun 25 2020 18:00",
+      "referee" : "Mike Dean",
+      "attendance" : "Behind Closed Doors",
+      "venue" : "Turf Moor",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Burnley",
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "West Ham",
+        "firstHalfScore" : 0
+      },
+      "when" : "Tuesday, Jun 23 2020 20:15",
+      "referee" : "Craig Pawson",
+      "attendance" : "Behind Closed Doors",
+      "venue" : "Tottenham Hotspur Stadium",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 2,
+        "teamName" : "Tottenham",
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "team2" : {
+        "teamName" : "Manchester City",
+        "redCards" : 1,
+        "teamScore" : 1,
+        "firstHalfScore" : 0
+      },
+      "when" : "Thursday, Jun 25 2020 20:15",
+      "referee" : "Stuart Attwell",
+      "attendance" : "Behind Closed Doors",
+      "venue" : "Stamford Bridge",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 2,
+        "teamName" : "Chelsea",
+        "firstHalfScore" : 1
+      }
+    },
+    {
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Bournemouth",
+        "firstHalfScore" : 0
+      },
+      "when" : "Wednesday, Jun 24 2020 18:00",
+      "referee" : "Michael Oliver",
+      "attendance" : "Behind Closed Doors",
+      "venue" : "Molineux Stadium",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Wolverhampton Wanderers",
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Brighton",
+        "firstHalfScore" : 0
+      },
+      "when" : "Tuesday, Jun 23 2020 18:00",
+      "referee" : "Lee Mason",
+      "attendance" : "Behind Closed Doors",
+      "venue" : "King Power Stadium",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Leicester",
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 0
+      },
+      "when" : "Wednesday, Jun 24 2020 20:15",
+      "referee" : "Martin Atkinson",
+      "attendance" : "Behind Closed Doors",
+      "venue" : "Anfield",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 4,
+        "teamName" : "Liverpool",
+        "firstHalfScore" : 2
+      }
+    },
+    {
+      "team2" : {
+        "teamScore" : 0,
+        "teamName" : "Sheffield United",
+        "firstHalfScore" : 0
+      },
+      "when" : "Wednesday, Jun 24 2020 18:00",
+      "referee" : "Anthony Taylor",
+      "attendance" : "Behind Closed Doors",
+      "venue" : "Old Trafford",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 3,
+        "teamName" : "Manchester United",
+        "firstHalfScore" : 2
+      }
+    },
+    {
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Aston Villa",
+        "firstHalfScore" : 0
+      },
+      "when" : "Wednesday, Jun 24 2020 18:00",
+      "referee" : "Chris Kavanagh",
+      "attendance" : "Behind Closed Doors",
+      "venue" : "St James' Park",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 1,
+        "teamName" : "Newcastle United",
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "team2" : {
+        "teamScore" : 1,
+        "teamName" : "Everton",
+        "firstHalfScore" : 0
+      },
+      "when" : "Wednesday, Jun 24 2020 18:00",
+      "referee" : "Andy Madley",
+      "attendance" : "Behind Closed Doors",
+      "venue" : "Carrow Road",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 0,
+        "teamName" : "Norwich",
+        "firstHalfScore" : 0
+      }
+    },
+    {
+      "team2" : {
+        "teamScore" : 2,
+        "teamName" : "Arsenal",
+        "firstHalfScore" : 1
+      },
+      "when" : "Thursday, Jun 25 2020 18:00",
+      "referee" : "Graham Scott",
+      "attendance" : "Behind Closed Doors",
+      "venue" : "St Mary's Stadium",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 0,
+        "redCards" : 1,
+        "firstHalfScore" : 0,
+        "teamName" : "Southampton"
+      }
+    }
+  ]
+}

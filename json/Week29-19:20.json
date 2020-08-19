@@ -1,0 +1,175 @@
+{
+  "matches" : [
+    {
+      "venue" : "Emirates Stadium",
+      "when" : "Saturday, Mar 07 2020 15:00",
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Arsenal",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "referee" : "Martin Atkinson",
+      "team2" : {
+        "teamName" : "West Ham",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "attendance" : "60.335"
+    },
+    {
+      "venue" : "Turf Moor",
+      "when" : "Saturday, Mar 07 2020 17:30",
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Burnley",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "referee" : "Jonathan Moss",
+      "team2" : {
+        "teamName" : "Tottenham",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "attendance" : "20.496"
+    },
+    {
+      "venue" : "Stamford Bridge",
+      "when" : "Sunday, Mar 08 2020 14:00",
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Chelsea",
+        "firstHalfScore" : 2,
+        "teamScore" : 4
+      },
+      "referee" : "Kevin Friend",
+      "team2" : {
+        "teamName" : "Everton",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "attendance" : "40.694"
+    },
+    {
+      "venue" : "Selhurst Park",
+      "when" : "Saturday, Mar 07 2020 15:00",
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "referee" : "Anthony Taylor",
+      "team2" : {
+        "teamName" : "Watford",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "attendance" : "25.461"
+    },
+    {
+      "venue" : "King Power Stadium",
+      "when" : "Monday, Mar 09 2020 20:00",
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Leicester",
+        "firstHalfScore" : 1,
+        "teamScore" : 4
+      },
+      "referee" : "Michael Oliver",
+      "team2" : {
+        "teamName" : "Aston Villa",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "attendance" : "32.125"
+    },
+    {
+      "venue" : "Anfield",
+      "when" : "Saturday, Mar 07 2020 12:30",
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Liverpool",
+        "firstHalfScore" : 2,
+        "teamScore" : 2
+      },
+      "referee" : "Paul Tierney",
+      "team2" : {
+        "teamName" : "Bournemouth",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "attendance" : "53.323"
+    },
+    {
+      "venue" : "Old Trafford",
+      "when" : "Sunday, Mar 08 2020 16:30",
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Manchester United",
+        "firstHalfScore" : 1,
+        "teamScore" : 2
+      },
+      "referee" : "Mike Dean",
+      "team2" : {
+        "teamName" : "Manchester City",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "attendance" : "73.288"
+    },
+    {
+      "venue" : "Bramall Lane",
+      "when" : "Saturday, Mar 07 2020 15:00",
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Sheffield United",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "referee" : "Simon Hooper",
+      "team2" : {
+        "teamName" : "Norwich",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "attendance" : "31.379"
+    },
+    {
+      "venue" : "St Mary's Stadium",
+      "when" : "Saturday, Mar 07 2020 15:00",
+      "time" : "FT",
+      "team1" : {
+        "teamScore" : 0,
+        "firstHalfScore" : 0,
+        "redCards" : 1,
+        "teamName" : "Southampton"
+      },
+      "referee" : "Graham Scott",
+      "team2" : {
+        "teamName" : "Newcastle United",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "attendance" : "30.096"
+    },
+    {
+      "venue" : "Molineux Stadium",
+      "when" : "Saturday, Mar 07 2020 15:00",
+      "time" : "FT",
+      "team1" : {
+        "teamName" : "Wolverhampton Wanderers",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "referee" : "Andre Marriner",
+      "team2" : {
+        "teamName" : "Brighton",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "attendance" : "31.490"
+    }
+  ]
+}

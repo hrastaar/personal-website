@@ -1,0 +1,175 @@
+{
+  "matches" : [
+    {
+      "time" : "FT",
+      "when" : "Sunday, Jan 12 2020 16:30",
+      "attendance" : "41.823",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 1,
+        "teamName" : "Aston Villa"
+      },
+      "team2" : {
+        "firstHalfScore" : 4,
+        "teamScore" : 6,
+        "teamName" : "Manchester City"
+      },
+      "venue" : "Villa Park",
+      "referee" : "Jonathan Moss"
+    },
+    {
+      "time" : "FT",
+      "when" : "Sunday, Jan 12 2020 14:00",
+      "attendance" : "10.384",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Bournemouth"
+      },
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamScore" : 3,
+        "teamName" : "Watford"
+      },
+      "venue" : "Vitality Stadium",
+      "referee" : "Mike Dean"
+    },
+    {
+      "time" : "FT",
+      "when" : "Saturday, Jan 11 2020 15:00",
+      "attendance" : "40.396",
+      "team1" : {
+        "firstHalfScore" : 2,
+        "teamScore" : 3,
+        "teamName" : "Chelsea"
+      },
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamScore" : 0,
+        "teamName" : "Burnley"
+      },
+      "venue" : "Stamford Bridge",
+      "referee" : "Kevin Friend"
+    },
+    {
+      "team2" : {
+        "redCards" : 1,
+        "teamName" : "Arsenal",
+        "firstHalfScore" : 1,
+        "teamScore" : 1
+      },
+      "venue" : "Selhurst Park",
+      "referee" : "Paul Tierney",
+      "team1" : {
+        "teamName" : "Crystal Palace",
+        "firstHalfScore" : 0,
+        "teamScore" : 1
+      },
+      "when" : "Saturday, Jan 11 2020 12:30",
+      "time" : "FT",
+      "attendance" : "25.468"
+    },
+    {
+      "team2" : {
+        "teamName" : "Brighton",
+        "firstHalfScore" : 0,
+        "teamScore" : 0
+      },
+      "venue" : "Goodison Park",
+      "referee" : "David Coote",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Everton",
+        "teamScore" : 1
+      },
+      "when" : "Saturday, Jan 11 2020 15:00",
+      "time" : "FT",
+      "attendance" : "38.772"
+    },
+    {
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Southampton",
+        "teamScore" : 2
+      },
+      "venue" : "King Power Stadium",
+      "referee" : "Lee Mason",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Leicester",
+        "teamScore" : 1
+      },
+      "when" : "Saturday, Jan 11 2020 15:00",
+      "time" : "FT",
+      "attendance" : "32.115"
+    },
+    {
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Norwich",
+        "teamScore" : 0
+      },
+      "venue" : "Old Trafford",
+      "referee" : "Anthony Taylor",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Manchester United",
+        "teamScore" : 4
+      },
+      "when" : "Saturday, Jan 11 2020 15:00",
+      "time" : "FT",
+      "attendance" : "73.271"
+    },
+    {
+      "team2" : {
+        "firstHalfScore" : 0,
+        "teamName" : "West Ham",
+        "teamScore" : 0
+      },
+      "venue" : "Bramall Lane",
+      "referee" : "Michael Oliver",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Sheffield United",
+        "teamScore" : 1
+      },
+      "when" : "Friday, Jan 10 2020 20:00",
+      "time" : "FT",
+      "attendance" : "30.124"
+    },
+    {
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Liverpool",
+        "teamScore" : 1
+      },
+      "venue" : "Tottenham Hotspur Stadium",
+      "referee" : "Martin Atkinson",
+      "team1" : {
+        "firstHalfScore" : 0,
+        "teamName" : "Tottenham",
+        "teamScore" : 0
+      },
+      "when" : "Saturday, Jan 11 2020 17:30",
+      "time" : "FT",
+      "attendance" : "61.023"
+    },
+    {
+      "team2" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Newcastle United",
+        "teamScore" : 1
+      },
+      "venue" : "Molineux Stadium",
+      "referee" : "Peter Bankes",
+      "team1" : {
+        "firstHalfScore" : 1,
+        "teamName" : "Wolverhampton Wanderers",
+        "teamScore" : 1
+      },
+      "when" : "Saturday, Jan 11 2020 15:00",
+      "time" : "FT",
+      "attendance" : "31.570"
+    }
+  ]
+}
