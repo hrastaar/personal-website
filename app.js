@@ -32,13 +32,20 @@ app.listen(80, () => {
     console.log("Server started on: localhost:80");
 })
 
-app.get('/api/premierleaguestandings', (req, res) => {
+app.get('/api/premierleague/standings', (req, res) => {
 
     fs.readFile('./json/PremierLeagueTable.json', (err, json) => {
         let obj = JSON.parse(json);
         res.json(obj);
     });
+});
 
+app.get('/api/premierleague/week/:weekNumber', (req, res) => {
+
+    fs.readFile('./json/Week' + req.params.weekNumber + '-19/20.json', (err, json) => {
+        let obj = JSON.parse(json);
+        res.json(obj);
+    });
 });
 
 // post request for when user presses donate button on locahost:3000/
