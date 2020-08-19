@@ -32,6 +32,15 @@ app.listen(80, () => {
     console.log("Server started on: localhost:80");
 })
 
+app.get('/api/premierleaguestandings', (req, res) => {
+
+    fs.readFile('PremierLeagueTable.json', (err, json) => {
+        let obj = JSON.parse(json);
+        res.json(obj);
+    });
+
+});
+
 // post request for when user presses donate button on locahost:3000/
 app.get('/donate', (req, res) => {
     const create_payment_json = {

@@ -1,0 +1,204 @@
+{
+  "records" : [
+    {
+      "played" : 38,
+      "team" : "Liverpool",
+      "draw" : 3,
+      "goalsFor" : 85,
+      "loss" : 3,
+      "points" : 99,
+      "goalsAgainst" : 33,
+      "win" : 32
+    },
+    {
+      "goalsFor" : 102,
+      "loss" : 9,
+      "team" : "Manchester City",
+      "played" : 38,
+      "goalsAgainst" : 35,
+      "draw" : 3,
+      "points" : 81,
+      "win" : 26
+    },
+    {
+      "goalsFor" : 69,
+      "loss" : 12,
+      "team" : "Chelsea",
+      "played" : 38,
+      "goalsAgainst" : 54,
+      "draw" : 6,
+      "points" : 66,
+      "win" : 20
+    },
+    {
+      "goalsFor" : 66,
+      "loss" : 8,
+      "team" : "Manchester United",
+      "played" : 38,
+      "goalsAgainst" : 36,
+      "draw" : 12,
+      "points" : 66,
+      "win" : 18
+    },
+    {
+      "goalsFor" : 67,
+      "loss" : 12,
+      "team" : "Leicester",
+      "played" : 38,
+      "goalsAgainst" : 41,
+      "draw" : 8,
+      "points" : 62,
+      "win" : 18
+    },
+    {
+      "goalsFor" : 61,
+      "loss" : 11,
+      "team" : "Tottenham",
+      "played" : 38,
+      "goalsAgainst" : 47,
+      "draw" : 11,
+      "points" : 59,
+      "win" : 16
+    },
+    {
+      "goalsFor" : 51,
+      "loss" : 9,
+      "team" : "Wolverhampton Wanderers",
+      "played" : 38,
+      "goalsAgainst" : 40,
+      "draw" : 14,
+      "points" : 59,
+      "win" : 15
+    },
+    {
+      "goalsFor" : 56,
+      "loss" : 10,
+      "team" : "Arsenal",
+      "played" : 38,
+      "goalsAgainst" : 48,
+      "draw" : 14,
+      "points" : 56,
+      "win" : 14
+    },
+    {
+      "goalsFor" : 43,
+      "loss" : 14,
+      "team" : "Burnley",
+      "played" : 38,
+      "goalsAgainst" : 50,
+      "draw" : 9,
+      "points" : 54,
+      "win" : 15
+    },
+    {
+      "goalsFor" : 39,
+      "loss" : 12,
+      "team" : "Sheffield United",
+      "played" : 38,
+      "goalsAgainst" : 39,
+      "draw" : 12,
+      "points" : 54,
+      "win" : 14
+    },
+    {
+      "goalsFor" : 51,
+      "loss" : 16,
+      "team" : "Southampton",
+      "played" : 38,
+      "goalsAgainst" : 60,
+      "draw" : 7,
+      "points" : 52,
+      "win" : 15
+    },
+    {
+      "goalsFor" : 44,
+      "loss" : 15,
+      "team" : "Everton",
+      "played" : 38,
+      "goalsAgainst" : 56,
+      "draw" : 10,
+      "points" : 49,
+      "win" : 13
+    },
+    {
+      "goalsFor" : 38,
+      "loss" : 16,
+      "team" : "Newcastle United",
+      "played" : 38,
+      "goalsAgainst" : 58,
+      "draw" : 11,
+      "points" : 44,
+      "win" : 11
+    },
+    {
+      "goalsFor" : 31,
+      "loss" : 17,
+      "team" : "Crystal Palace",
+      "played" : 38,
+      "goalsAgainst" : 50,
+      "draw" : 10,
+      "points" : 43,
+      "win" : 11
+    },
+    {
+      "goalsFor" : 39,
+      "loss" : 15,
+      "team" : "Brighton",
+      "played" : 38,
+      "goalsAgainst" : 54,
+      "draw" : 14,
+      "points" : 41,
+      "win" : 9
+    },
+    {
+      "goalsFor" : 49,
+      "loss" : 19,
+      "team" : "West Ham",
+      "played" : 38,
+      "goalsAgainst" : 62,
+      "draw" : 9,
+      "points" : 39,
+      "win" : 10
+    },
+    {
+      "goalsFor" : 41,
+      "loss" : 21,
+      "team" : "Aston Villa",
+      "played" : 38,
+      "goalsAgainst" : 67,
+      "draw" : 8,
+      "points" : 35,
+      "win" : 9
+    },
+    {
+      "goalsFor" : 40,
+      "loss" : 22,
+      "team" : "Bournemouth",
+      "played" : 38,
+      "goalsAgainst" : 65,
+      "draw" : 7,
+      "points" : 34,
+      "win" : 9
+    },
+    {
+      "goalsFor" : 36,
+      "loss" : 20,
+      "team" : "Watford",
+      "played" : 38,
+      "goalsAgainst" : 64,
+      "draw" : 10,
+      "points" : 34,
+      "win" : 8
+    },
+    {
+      "goalsFor" : 26,
+      "loss" : 27,
+      "team" : "Norwich",
+      "played" : 38,
+      "goalsAgainst" : 75,
+      "draw" : 6,
+      "points" : 21,
+      "win" : 5
+    }
+  ]
+}
