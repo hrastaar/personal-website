@@ -20,9 +20,7 @@
             background: #0e0e0e;
             color: white;
         }
-        header {
-            color: whitesmoke;
-        }
+        header { color: whitesmoke; }
         a { color: inherit; }
         #editor {
           position: absolute;
@@ -135,9 +133,6 @@
               <li class="nav-item">
                 <a class="nav-link" href="projects.ejs" style="color: whitesmoke;">Projects</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="contact.ejs" style="color: whitesmoke;">Contact Me</a>
-              </li>
             </ul>
         </div>
     </nav>
@@ -165,7 +160,7 @@
           </ul>
         </div>
         <div class="col">
-            <img src="../public/images/casual-pic.JPG" class = "rounded-circle" alt="failed to load">
+            <img src="../public/images/casual-pic.JPG" class = "rounded-circle" alt="failed to load" style="max-height: 600px; max-width: 500px;">
         </div>
         </div>
     </div>
@@ -310,18 +305,30 @@
     <br>
     <div class="line"></div>
     <br>
-
-    <div class = "my-links">
-        <a href="https://www.github.com/hrastaar"><img src= "../public/images/github.png" alt = "My GitHub"></a>
-    </div>
-
-    <div class = "my-links">
-        <a href="https://www.linkedin.com/in/rastaarhaghi"><img src= "../public/images/linkedin.png" alt = "My LinkedIn"></a>
-    </div>
-
-    <div class = "my-links">
-        <a href="mailto:rastaarhaghi@gmail.com"><img src= "../public/images/EmailTesting_Icon.png" alt = "Email Me!"></a>
-    </div>
   </body>
+
+  <footer>
+    <div class = "jumbotron">
+      <h1 class = "display-4">Contact Me</h1>
+      <p class = "lead">Feel free to contact me about any software engineering opportunities or projects you may want to collaborate on!</p>
+      <div id="contact-links">
+          <div class = "my-links">
+              <a href="https://www.github.com/hrastaar"><img src= "../public/images/github.png" alt = "My GitHub"></a>
+          </div>
+
+          <div class = "my-links">
+              <a href="https://www.linkedin.com/in/rastaarhaghi"><img src= "../public/images/linkedin.png" alt = "My LinkedIn"></a>
+          </div>
+      
+          <div class = "my-links">
+              <a href="mailto:rastaarhaghi@gmail.com"><img src= "../public/images/EmailTesting_Icon.png" alt = "Email Me!"></a>
+          </div>
+          <br>
+          <br>
+      </div>
+      <br>
+      <br>
+    </div>
+  </footer>
 
 </html>
