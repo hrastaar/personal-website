@@ -41,7 +41,7 @@
 
         /* set the jumbotron class's image to the studio one and align text center */
         .jumbotron {
-            background: url("../public/images/purp.jpeg");
+            background: url("../public/images/purpleBackground.jpeg");
             width: auto;
             height: auto;
 
@@ -172,41 +172,41 @@
     <div class="info-section">
       <div class="row">
         <div class = "col">
-    <div id="editor" >
-      let myLanguages = ['C++', 'Swift', 'Objective-C', 'SQL', 'PHP',
-                          'HTML/CSS', 'JavaScript', 'Java', 'C'];
-      let myTools = ['Node.js', 'UIKit', 'Xcode', 'SwiftUI', 'Express.js',
-                      'Google GTest', 'GCP', 'Bootstrap'];
+          <div id="editor" >
+            let myLanguages = ['C++', 'Swift', 'Objective-C', 'SQL', 'PHP',
+                                'HTML/CSS', 'JavaScript', 'Java', 'C'];
+            let myTools = ['Node.js', 'UIKit', 'Xcode', 'SwiftUI', 'Express.js',
+                            'Google GTest', 'GCP', 'Bootstrap'];
 
-      function printSkills(languages, tools) {
+            function printSkills(languages, tools) {
 
-        // print my programming languages
-        console.log('my languages:');
-        for(let i = 0; i < languages.length; i++) {
-          console.log(languages[i]);
-        }
-        // print my tools
-        console.log('my tools')
-        for(let i = 0; i < tools.length; i++) {
-          console.log(tools[i]);
-        }
-        return true;
-      }
-    </div>
+              // print my programming languages
+              console.log('my languages:');
+              for(let i = 0; i < languages.length; i++) {
+                console.log(languages[i]);
+              }
+              // print my tools
+              console.log('my tools')
+              for(let i = 0; i < tools.length; i++) {
+                console.log(tools[i]);
+              }
+              return true;
+            }
+          </div>
 
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.4.5/ace.js" type="text/javascript" charset="utf-8"></script>
-            <script>
-                var editor = ace.edit("editor", {
-                  newLineMode: 'auto'
-                });
-                editor.setTheme("ace/theme/monokai");
-                editor.session.setMode("ace/mode/javascript");
-                ace.require("ace/ext/language_tools");
-                var editor = ace.edit("editor");
-                editor.setOptions({
-                    enableBasicAutocompletion: true
-                });
-                </script>
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.4.5/ace.js" type="text/javascript" charset="utf-8"></script>
+          <script>
+              var editor = ace.edit("editor", {
+                newLineMode: 'auto'
+              });
+              editor.setTheme("ace/theme/monokai");
+              editor.session.setMode("ace/mode/javascript");
+              ace.require("ace/ext/language_tools");
+              var editor = ace.edit("editor");
+              editor.setOptions({
+                  enableBasicAutocompletion: true
+              });
+          </script>
         </div>
         <div class = "col">
           <h1>Skills</h1>
@@ -252,7 +252,6 @@
             <li>The Complete iOS Development Bootcamp - Udemy Course</li>
             <li>Node.js Bootcamp - Coding with Mosh Bootcamp</li>
           </ul>
-          
         </div>
       </div>
     </div>
@@ -306,7 +305,6 @@
     <div class="line"></div>
     <br>
   </body>
-
   <footer>
     <div class = "jumbotron">
       <h1 class = "display-4">Contact Me</h1>
