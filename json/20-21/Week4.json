@@ -1,0 +1,155 @@
+{
+    "matches": [
+        {
+            "when": "Sunday, Oct 04 2020 14:00",
+            "referee": "Lee Mason",
+            "team1": {
+                "teamName": "Arsenal",
+                "teamScore": 2,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Sheffield United",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Oct 04 2020 19:15",
+            "referee": "Martin Atkinson",
+            "team1": {
+                "teamName": "Aston Villa",
+                "teamScore": 7,
+                "firstHalfScore": 4
+            },
+            "team2": {
+                "teamName": "Liverpool",
+                "teamScore": 2,
+                "firstHalfScore": 1
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Oct 03 2020 12:30",
+            "referee": "Michael Oliver",
+            "team1": {
+                "teamName": "Chelsea",
+                "teamScore": 4,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Crystal Palace",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Oct 03 2020 15:00",
+            "referee": "Simon Hooper",
+            "team1": {
+                "teamName": "Everton",
+                "teamScore": 4,
+                "firstHalfScore": 2
+            },
+            "team2": {
+                "teamName": "Brighton",
+                "teamScore": 2,
+                "firstHalfScore": 1
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Oct 03 2020 17:30",
+            "referee": "Mike Dean",
+            "team1": {
+                "teamName": "Leeds",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Manchester City",
+                "teamScore": 1,
+                "firstHalfScore": 1
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Oct 04 2020 12:00",
+            "referee": "Andy Madley",
+            "team1": {
+                "teamName": "Leicester",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "West Ham",
+                "teamScore": 3,
+                "firstHalfScore": 2
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Oct 04 2020 16:30",
+            "referee": "Anthony Taylor",
+            "team1": {
+                "teamName": "Manchester United",
+                "teamScore": 1,
+                "firstHalfScore": 1,
+                "redCards": 1
+            },
+            "team2": {
+                "teamName": "Tottenham",
+                "teamScore": 6,
+                "firstHalfScore": 4
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Oct 03 2020 20:00",
+            "referee": "David Coote",
+            "team1": {
+                "teamName": "Newcastle United",
+                "teamScore": 3,
+                "firstHalfScore": 1
+            },
+            "team2": {
+                "teamName": "Burnley",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Oct 04 2020 12:00",
+            "referee": "Chris Kavanagh",
+            "team1": {
+                "teamName": "Southampton",
+                "teamScore": 2,
+                "firstHalfScore": 1
+            },
+            "team2": {
+                "teamName": "West Bromwich Albion",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Oct 04 2020 14:00",
+            "referee": "Darren England",
+            "team1": {
+                "teamName": "Wolverhampton Wanderers",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Fulham",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        }
+    ]
+}

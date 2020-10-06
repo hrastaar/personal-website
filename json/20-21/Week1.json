@@ -1,0 +1,157 @@
+{
+    "matches": [
+        {
+            "when": "Saturday, Sep 12 2020 12:30",
+            "referee": "Chris Kavanagh",
+            "team1": {
+                "teamName": "Fulham",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Arsenal",
+                "teamScore": 3,
+                "firstHalfScore": 1
+            },
+            "time": "FT",
+            "venue": "Craven Cottage",
+            "attendance": "Behind Closed Doors"
+        },
+        {
+            "when": "Saturday, Sep 12 2020 15:00",
+            "referee": "Jonathan Moss",
+            "team1": {
+                "teamName": "Crystal Palace",
+                "teamScore": 1,
+                "firstHalfScore": 1
+            },
+            "team2": {
+                "teamName": "Southampton",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "time": "FT",
+            "venue": "Selhurst Park",
+            "attendance": "Behind Closed Doors"
+        },
+        {
+            "when": "Saturday, Sep 12 2020 15:00",
+            "team1": {
+                "teamName": "Burnley"
+            },
+            "team2": {
+                "teamName": "Manchester United"
+            },
+            "time": "Post"
+        },
+        {
+            "when": "Saturday, Sep 12 2020 15:00",
+            "team1": {
+                "teamName": "Manchester City"
+            },
+            "team2": {
+                "teamName": "Aston Villa"
+            },
+            "time": "Post"
+        },
+        {
+            "when": "Saturday, Sep 12 2020 17:30",
+            "referee": "Michael Oliver",
+            "team1": {
+                "teamName": "Liverpool",
+                "teamScore": 4,
+                "firstHalfScore": 3
+            },
+            "team2": {
+                "teamName": "Leeds",
+                "teamScore": 3,
+                "firstHalfScore": 2
+            },
+            "time": "FT",
+            "venue": "Anfield",
+            "attendance": "Behind Closed Doors"
+        },
+        {
+            "when": "Saturday, Sep 12 2020 20:00",
+            "referee": "Stuart Attwell",
+            "team1": {
+                "teamName": "West Ham",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Newcastle United",
+                "teamScore": 2,
+                "firstHalfScore": 0
+            },
+            "time": "FT",
+            "venue": "London Stadium",
+            "attendance": "Behind Closed Doors"
+        },
+        {
+            "when": "Sunday, Sep 13 2020 14:00",
+            "team1": {
+                "teamName": "West Bromwich Albion",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Leicester",
+                "teamScore": 3,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Sep 13 2020 16:30",
+            "referee": "Martin Atkinson",
+            "team1": {
+                "teamName": "Tottenham",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Everton",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "time": "FT",
+            "venue": "Tottenham Hotspur Stadium",
+            "attendance": "Behind Closed Doors"
+        },
+        {
+            "when": "Monday, Sep 14 2020 18:00",
+            "referee": "Mike Dean",
+            "team1": {
+                "teamName": "Sheffield United",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Wolverhampton Wanderers",
+                "teamScore": 2,
+                "firstHalfScore": 2
+            },
+            "time": "FT",
+            "venue": "Bramall Lane",
+            "attendance": "Behind Closed Doors"
+        },
+        {
+            "when": "Monday, Sep 14 2020 20:15",
+            "referee": "Craig Pawson",
+            "team1": {
+                "teamName": "Brighton",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Chelsea",
+                "teamScore": 3,
+                "firstHalfScore": 1
+            },
+            "time": "FT",
+            "venue": "AMEX Stadium",
+            "attendance": "Behind Closed Doors"
+        }
+    ]
+}
