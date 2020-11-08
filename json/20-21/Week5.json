@@ -1,0 +1,155 @@
+{
+    "matches": [
+        {
+            "when": "Saturday, Oct 17 2020 15:00",
+            "referee": "Peter Bankes",
+            "team1": {
+                "teamName": "Chelsea",
+                "teamScore": 3,
+                "firstHalfScore": 2
+            },
+            "team2": {
+                "teamName": "Southampton",
+                "teamScore": 3,
+                "firstHalfScore": 1
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Oct 18 2020 14:00",
+            "referee": "Stuart Attwell",
+            "team1": {
+                "teamName": "Crystal Palace",
+                "teamScore": 1,
+                "firstHalfScore": 1
+            },
+            "team2": {
+                "teamName": "Brighton",
+                "teamScore": 1,
+                "firstHalfScore": 0,
+                "redCards": 1
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Oct 17 2020 12:30",
+            "referee": "Michael Oliver",
+            "team1": {
+                "teamName": "Everton",
+                "teamScore": 2,
+                "firstHalfScore": 1,
+                "redCards": 1
+            },
+            "team2": {
+                "teamName": "Liverpool",
+                "teamScore": 2,
+                "firstHalfScore": 1
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Monday, Oct 19 2020 20:00",
+            "referee": "David Coote",
+            "team1": {
+                "teamName": "Leeds",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Wolverhampton Wanderers",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Oct 18 2020 19:15",
+            "team1": {
+                "teamName": "Leicester",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Aston Villa",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Oct 17 2020 17:30",
+            "referee": "Chris Kavanagh",
+            "team1": {
+                "teamName": "Manchester City",
+                "teamScore": 1,
+                "firstHalfScore": 1
+            },
+            "team2": {
+                "teamName": "Arsenal",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Oct 17 2020 20:00",
+            "referee": "Craig Pawson",
+            "team1": {
+                "teamName": "Newcastle United",
+                "teamScore": 1,
+                "firstHalfScore": 1
+            },
+            "team2": {
+                "teamName": "Manchester United",
+                "teamScore": 4,
+                "firstHalfScore": 1
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Oct 18 2020 12:00",
+            "referee": "Andre Marriner",
+            "team1": {
+                "teamName": "Sheffield United",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Fulham",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Oct 18 2020 16:30",
+            "referee": "Paul Tierney",
+            "team1": {
+                "teamName": "Tottenham",
+                "teamScore": 3,
+                "firstHalfScore": 3
+            },
+            "team2": {
+                "teamName": "West Ham",
+                "teamScore": 3,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Monday, Oct 19 2020 17:30",
+            "referee": "Anthony Taylor",
+            "team1": {
+                "teamName": "West Bromwich Albion",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Burnley",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        }
+    ]
+}
