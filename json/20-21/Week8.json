@@ -3,11 +3,16 @@
         {
             "when": "Sunday, Nov 08 2020 19:15",
             "team1": {
-                "teamName": "Arsenal"
+                "teamName": "Arsenal",
+                "teamScore": 0,
+                "firstHalfScore": 0
             },
             "team2": {
-                "teamName": "Aston Villa"
-            }
+                "teamName": "Aston Villa",
+                "teamScore": 3,
+                "firstHalfScore": 1
+            },
+            "time": "FT"
         },
         {
             "when": "Friday, Nov 06 2020 17:30",
@@ -26,15 +31,22 @@
         },
         {
             "when": "Saturday, Nov 07 2020 17:30",
+            "referee": "Jonathan Moss",
             "team1": {
-                "teamName": "Chelsea"
+                "teamName": "Chelsea",
+                "teamScore": 4,
+                "firstHalfScore": 2
             },
             "team2": {
-                "teamName": "Sheffield United"
-            }
+                "teamName": "Sheffield United",
+                "teamScore": 1,
+                "firstHalfScore": 1
+            },
+            "time": "FT"
         },
         {
             "when": "Saturday, Nov 07 2020 15:00",
+            "referee": "Chris Kavanagh",
             "team1": {
                 "teamName": "Crystal Palace",
                 "teamScore": 4,
@@ -64,21 +76,33 @@
         },
         {
             "when": "Sunday, Nov 08 2020 14:00",
+            "referee": "Anthony Taylor",
             "team1": {
-                "teamName": "Leicester"
+                "teamName": "Leicester",
+                "teamScore": 1,
+                "firstHalfScore": 1
             },
             "team2": {
-                "teamName": "Wolverhampton Wanderers"
-            }
+                "teamName": "Wolverhampton Wanderers",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
         },
         {
             "when": "Sunday, Nov 08 2020 16:30",
+            "referee": "Craig Pawson",
             "team1": {
-                "teamName": "Manchester City"
+                "teamName": "Manchester City",
+                "teamScore": 1,
+                "firstHalfScore": 1
             },
             "team2": {
-                "teamName": "Liverpool"
-            }
+                "teamName": "Liverpool",
+                "teamScore": 1,
+                "firstHalfScore": 1
+            },
+            "time": "FT"
         },
         {
             "when": "Friday, Nov 06 2020 20:00",
@@ -97,21 +121,33 @@
         },
         {
             "when": "Sunday, Nov 08 2020 12:00",
+            "referee": "Andy Madley",
             "team1": {
-                "teamName": "West Bromwich Albion"
+                "teamName": "West Bromwich Albion",
+                "teamScore": 0,
+                "firstHalfScore": 0
             },
             "team2": {
-                "teamName": "Tottenham"
-            }
+                "teamName": "Tottenham",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
         },
         {
             "when": "Saturday, Nov 07 2020 20:00",
+            "referee": "Robert Jones",
             "team1": {
-                "teamName": "West Ham"
+                "teamName": "West Ham",
+                "teamScore": 1,
+                "firstHalfScore": 0
             },
             "team2": {
-                "teamName": "Fulham"
-            }
+                "teamName": "Fulham",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
         }
     ]
 }
