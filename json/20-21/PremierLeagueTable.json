@@ -1,204 +1,204 @@
 {
     "records": [
         {
-            "team": "Everton",
-            "played": 4,
-            "win": 4,
-            "draw": 0,
-            "loss": 0,
-            "goalsFor": 12,
-            "goalsAgainst": 5,
-            "points": 12
-        },
-        {
-            "team": "Aston Villa",
-            "played": 3,
-            "win": 3,
-            "draw": 0,
-            "loss": 0,
-            "goalsFor": 11,
-            "goalsAgainst": 2,
-            "points": 9
-        },
-        {
             "team": "Leicester",
-            "played": 4,
-            "win": 3,
+            "played": 8,
+            "win": 6,
             "draw": 0,
-            "loss": 1,
-            "goalsFor": 12,
-            "goalsAgainst": 7,
-            "points": 9
-        },
-        {
-            "team": "Liverpool",
-            "played": 4,
-            "win": 3,
-            "draw": 0,
-            "loss": 1,
-            "goalsFor": 11,
-            "goalsAgainst": 11,
-            "points": 9
-        },
-        {
-            "team": "Arsenal",
-            "played": 4,
-            "win": 3,
-            "draw": 0,
-            "loss": 1,
-            "goalsFor": 8,
-            "goalsAgainst": 5,
-            "points": 9
+            "loss": 2,
+            "goalsFor": 18,
+            "goalsAgainst": 9,
+            "points": 18
         },
         {
             "team": "Tottenham",
-            "played": 4,
-            "win": 2,
-            "draw": 1,
+            "played": 8,
+            "win": 5,
+            "draw": 2,
             "loss": 1,
-            "goalsFor": 12,
-            "goalsAgainst": 5,
-            "points": 7
+            "goalsFor": 19,
+            "goalsAgainst": 9,
+            "points": 17
         },
         {
-            "team": "Chelsea",
-            "played": 4,
-            "win": 2,
-            "draw": 1,
+            "team": "Liverpool",
+            "played": 8,
+            "win": 5,
+            "draw": 2,
             "loss": 1,
-            "goalsFor": 10,
-            "goalsAgainst": 6,
-            "points": 7
-        },
-        {
-            "team": "Leeds",
-            "played": 4,
-            "win": 2,
-            "draw": 1,
-            "loss": 1,
-            "goalsFor": 9,
-            "goalsAgainst": 8,
-            "points": 7
-        },
-        {
-            "team": "Newcastle United",
-            "played": 4,
-            "win": 2,
-            "draw": 1,
-            "loss": 1,
-            "goalsFor": 6,
-            "goalsAgainst": 5,
-            "points": 7
-        },
-        {
-            "team": "West Ham",
-            "played": 4,
-            "win": 2,
-            "draw": 0,
-            "loss": 2,
-            "goalsFor": 8,
-            "goalsAgainst": 4,
-            "points": 6
+            "goalsFor": 18,
+            "goalsAgainst": 16,
+            "points": 17
         },
         {
             "team": "Southampton",
-            "played": 4,
-            "win": 2,
+            "played": 8,
+            "win": 5,
+            "draw": 1,
+            "loss": 2,
+            "goalsFor": 16,
+            "goalsAgainst": 12,
+            "points": 16
+        },
+        {
+            "team": "Aston Villa",
+            "played": 7,
+            "win": 5,
             "draw": 0,
             "loss": 2,
-            "goalsFor": 5,
-            "goalsAgainst": 6,
-            "points": 6
+            "goalsFor": 18,
+            "goalsAgainst": 9,
+            "points": 15
+        },
+        {
+            "team": "Chelsea",
+            "played": 8,
+            "win": 4,
+            "draw": 3,
+            "loss": 1,
+            "goalsFor": 20,
+            "goalsAgainst": 10,
+            "points": 15
+        },
+        {
+            "team": "Everton",
+            "played": 8,
+            "win": 4,
+            "draw": 1,
+            "loss": 3,
+            "goalsFor": 16,
+            "goalsAgainst": 14,
+            "points": 13
         },
         {
             "team": "Crystal Palace",
-            "played": 4,
-            "win": 2,
-            "draw": 0,
-            "loss": 2,
-            "goalsFor": 5,
-            "goalsAgainst": 7,
-            "points": 6
+            "played": 8,
+            "win": 4,
+            "draw": 1,
+            "loss": 3,
+            "goalsFor": 12,
+            "goalsAgainst": 12,
+            "points": 13
         },
         {
             "team": "Wolverhampton Wanderers",
-            "played": 4,
-            "win": 2,
-            "draw": 0,
-            "loss": 2,
-            "goalsFor": 4,
-            "goalsAgainst": 7,
-            "points": 6
+            "played": 8,
+            "win": 4,
+            "draw": 1,
+            "loss": 3,
+            "goalsFor": 8,
+            "goalsAgainst": 9,
+            "points": 13
         },
         {
             "team": "Manchester City",
-            "played": 3,
-            "win": 1,
-            "draw": 1,
+            "played": 7,
+            "win": 3,
+            "draw": 3,
             "loss": 1,
-            "goalsFor": 6,
-            "goalsAgainst": 7,
-            "points": 4
+            "goalsFor": 10,
+            "goalsAgainst": 9,
+            "points": 12
+        },
+        {
+            "team": "Arsenal",
+            "played": 8,
+            "win": 4,
+            "draw": 0,
+            "loss": 4,
+            "goalsFor": 9,
+            "goalsAgainst": 10,
+            "points": 12
+        },
+        {
+            "team": "West Ham",
+            "played": 8,
+            "win": 3,
+            "draw": 2,
+            "loss": 3,
+            "goalsFor": 14,
+            "goalsAgainst": 10,
+            "points": 11
+        },
+        {
+            "team": "Newcastle United",
+            "played": 8,
+            "win": 3,
+            "draw": 2,
+            "loss": 3,
+            "goalsFor": 10,
+            "goalsAgainst": 13,
+            "points": 11
         },
         {
             "team": "Manchester United",
-            "played": 3,
-            "win": 1,
-            "draw": 0,
-            "loss": 2,
-            "goalsFor": 5,
-            "goalsAgainst": 11,
-            "points": 3
+            "played": 7,
+            "win": 3,
+            "draw": 1,
+            "loss": 3,
+            "goalsFor": 12,
+            "goalsAgainst": 14,
+            "points": 10
+        },
+        {
+            "team": "Leeds",
+            "played": 8,
+            "win": 3,
+            "draw": 1,
+            "loss": 4,
+            "goalsFor": 14,
+            "goalsAgainst": 17,
+            "points": 10
         },
         {
             "team": "Brighton",
-            "played": 4,
+            "played": 8,
             "win": 1,
-            "draw": 0,
-            "loss": 3,
-            "goalsFor": 8,
-            "goalsAgainst": 10,
-            "points": 3
-        },
-        {
-            "team": "West Bromwich Albion",
-            "played": 4,
-            "win": 0,
-            "draw": 1,
-            "loss": 3,
-            "goalsFor": 5,
-            "goalsAgainst": 13,
-            "points": 1
-        },
-        {
-            "team": "Burnley",
-            "played": 3,
-            "win": 0,
-            "draw": 0,
-            "loss": 3,
-            "goalsFor": 3,
-            "goalsAgainst": 8,
-            "points": 0
+            "draw": 3,
+            "loss": 4,
+            "goalsFor": 11,
+            "goalsAgainst": 14,
+            "points": 6
         },
         {
             "team": "Fulham",
-            "played": 4,
+            "played": 8,
+            "win": 1,
+            "draw": 1,
+            "loss": 6,
+            "goalsFor": 7,
+            "goalsAgainst": 15,
+            "points": 4
+        },
+        {
+            "team": "West Bromwich Albion",
+            "played": 8,
             "win": 0,
-            "draw": 0,
-            "loss": 4,
+            "draw": 3,
+            "loss": 5,
+            "goalsFor": 6,
+            "goalsAgainst": 17,
+            "points": 3
+        },
+        {
+            "team": "Burnley",
+            "played": 7,
+            "win": 0,
+            "draw": 2,
+            "loss": 5,
             "goalsFor": 3,
-            "goalsAgainst": 11,
-            "points": 0
+            "goalsAgainst": 12,
+            "points": 2
         },
         {
             "team": "Sheffield United",
-            "played": 4,
+            "played": 8,
             "win": 0,
-            "draw": 0,
-            "loss": 4,
-            "goalsFor": 1,
-            "goalsAgainst": 6,
-            "points": 0
+            "draw": 1,
+            "loss": 7,
+            "goalsFor": 4,
+            "goalsAgainst": 14,
+            "points": 1
         }
     ]
 }
