@@ -27,6 +27,9 @@ app.get('/index.ejs', (req, res) => {
 app.get('/contact.ejs', (req, res) => {
     res.render('contact')
 })
+app.get('/privacy-policy.ejs', (req, res) => {
+    res.render('privacy-policy')
+})
 // initialize express server
 app.listen(80, () => {
     console.log("Server started on: localhost:80");
