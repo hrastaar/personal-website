@@ -34,6 +34,26 @@ app.get('/privacy-policy.ejs', (req, res) => {
 app.listen(80, () => {
     console.log("Server started on: localhost:80");
 })
+
+// stock test code
+app.get('/api/stocks/tickerTest', (req, res) => {
+
+    var fileName = './json/stocks.json';
+    fs.access(fileName, fs.constants.R_OK, (error) => {
+      if(!error) {
+        fs.readFile(fileName, (err, json) => {
+          let obj = JSON.parse(json);
+          obj["status"] = 0;
+          res.json(obj);
+        });
+      } else {
+        console.log(error);
+        res.send({status: -1});
+      }  
+    });
+    
+});
+
 // season example 19-20
 app.get('/api/premierleague/:season/standings', (req, res) => {
 

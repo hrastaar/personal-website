@@ -1,0 +1,72 @@
+[
+    {
+        "symbol": "AAWW",
+        "name": "Atlas Air Worldwide Holdings, Inc.",
+        "currency": "USD",
+        "stockExchange": "NasdaqGS",
+        "exchangeShortName": "NASDAQ"
+    },
+    {
+        "symbol": "AAL",
+        "name": "American Airlines Group Inc.",
+        "currency": "USD",
+        "stockExchange": "NasdaqGS",
+        "exchangeShortName": "NASDAQ"
+    },
+    {
+        "symbol": "CPAAW",
+        "name": "Conyers Park II Acquisition Corp.",
+        "currency": null,
+        "stockExchange": "NasdaqCM",
+        "exchangeShortName": "NASDAQ"
+    },
+    {
+        "symbol": "PRAA",
+        "name": "PRA Group, Inc.",
+        "currency": "USD",
+        "stockExchange": "NasdaqGS",
+        "exchangeShortName": "NASDAQ"
+    },
+    {
+        "symbol": "PAAS",
+        "name": "Pan American Silver Corp.",
+        "currency": "USD",
+        "stockExchange": "NasdaqGS",
+        "exchangeShortName": "NASDAQ"
+    },
+    {
+        "symbol": "RYAAY",
+        "name": "Ryanair Holdings plc",
+        "currency": "USD",
+        "stockExchange": "NasdaqGS",
+        "exchangeShortName": "NASDAQ"
+    },
+    {
+        "symbol": "AAXN",
+        "name": "Axon Enterprise, Inc.",
+        "currency": "USD",
+        "stockExchange": "NasdaqGS",
+        "exchangeShortName": "NASDAQ"
+    },
+    {
+        "symbol": "CAAS",
+        "name": "China Automotive Systems, Inc.",
+        "currency": "USD",
+        "stockExchange": "NasdaqGS",
+        "exchangeShortName": "NASDAQ"
+    },
+    {
+        "symbol": "ZNWAA",
+        "name": "Zion Oil & Gas, Inc.",
+        "currency": "USD",
+        "stockExchange": "NasdaqCM",
+        "exchangeShortName": "NASDAQ"
+    },
+    {
+        "symbol": "CAN",
+        "name": "Canaan Inc.",
+        "currency": "USD",
+        "stockExchange": "NasdaqGS",
+        "exchangeShortName": "NASDAQ"
+    }
+]
