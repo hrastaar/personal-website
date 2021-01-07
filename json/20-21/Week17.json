@@ -1,0 +1,150 @@
+{
+    "matches": [
+        {
+            "when": "Saturday, Jan 02 2021 17:30",
+            "referee": "Andy Madley",
+            "team1": {
+                "teamName": "Brighton",
+                "teamScore": 3,
+                "firstHalfScore": 1
+            },
+            "team2": {
+                "teamName": "Wolverhampton Wanderers",
+                "teamScore": 3,
+                "firstHalfScore": 3
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Jan 03 2021 12:00",
+            "team1": {
+                "teamName": "Burnley"
+            },
+            "team2": {
+                "teamName": "Fulham"
+            },
+            "time": "Post"
+        },
+        {
+            "when": "Sunday, Jan 03 2021 16:30",
+            "referee": "Anthony Taylor",
+            "team1": {
+                "teamName": "Chelsea",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Manchester City",
+                "teamScore": 3,
+                "firstHalfScore": 3
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Jan 02 2021 15:00",
+            "referee": "Stuart Attwell",
+            "team1": {
+                "teamName": "Crystal Palace",
+                "teamScore": 2,
+                "firstHalfScore": 2
+            },
+            "team2": {
+                "teamName": "Sheffield United",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Friday, Jan 01 2021 17:30",
+            "referee": "Kevin Friend",
+            "team1": {
+                "teamName": "Everton",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "West Ham",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Friday, Jan 01 2021 20:00",
+            "referee": "Michael Oliver",
+            "team1": {
+                "teamName": "Manchester United",
+                "teamScore": 2,
+                "firstHalfScore": 1
+            },
+            "team2": {
+                "teamName": "Aston Villa",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Jan 03 2021 14:15",
+            "referee": "Robert Jones",
+            "team1": {
+                "teamName": "Newcastle United",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Leicester",
+                "teamScore": 2,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Monday, Jan 04 2021 20:00",
+            "referee": "Andre Marriner",
+            "team1": {
+                "teamName": "Southampton",
+                "teamScore": 1,
+                "firstHalfScore": 1
+            },
+            "team2": {
+                "teamName": "Liverpool",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Jan 02 2021 12:30",
+            "referee": "David Coote",
+            "team1": {
+                "teamName": "Tottenham",
+                "teamScore": 3,
+                "firstHalfScore": 2,
+                "redCards": 1
+            },
+            "team2": {
+                "teamName": "Leeds",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Jan 02 2021 20:00",
+            "referee": "Martin Atkinson",
+            "team1": {
+                "teamName": "West Bromwich Albion",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Arsenal",
+                "teamScore": 4,
+                "firstHalfScore": 2
+            },
+            "time": "FT"
+        }
+    ]
+}

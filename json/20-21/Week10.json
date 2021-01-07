@@ -1,0 +1,153 @@
+{
+    "matches": [
+        {
+            "when": "Saturday, Nov 28 2020 12:30",
+            "referee": "Stuart Attwell",
+            "team1": {
+                "teamName": "Brighton",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Liverpool",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Nov 29 2020 16:30",
+            "referee": "Paul Tierney",
+            "team1": {
+                "teamName": "Chelsea",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Tottenham",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Friday, Nov 27 2020 20:00",
+            "referee": "Graham Scott",
+            "team1": {
+                "teamName": "Crystal Palace",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Newcastle United",
+                "teamScore": 2,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Nov 28 2020 17:30",
+            "referee": "Chris Kavanagh",
+            "team1": {
+                "teamName": "Everton",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Leeds",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Monday, Nov 30 2020 17:30",
+            "referee": "Simon Hooper",
+            "team1": {
+                "teamName": "Leicester",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Fulham",
+                "teamScore": 2,
+                "firstHalfScore": 2
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Nov 28 2020 15:00",
+            "referee": "Lee Mason",
+            "team1": {
+                "teamName": "Manchester City",
+                "teamScore": 5,
+                "firstHalfScore": 3
+            },
+            "team2": {
+                "teamName": "Burnley",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Nov 29 2020 14:00",
+            "referee": "Jonathan Moss",
+            "team1": {
+                "teamName": "Southampton",
+                "teamScore": 2,
+                "firstHalfScore": 2
+            },
+            "team2": {
+                "teamName": "Manchester United",
+                "teamScore": 3,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Nov 28 2020 20:00",
+            "referee": "Mike Dean",
+            "team1": {
+                "teamName": "West Bromwich Albion",
+                "teamScore": 1,
+                "firstHalfScore": 1
+            },
+            "team2": {
+                "teamName": "Sheffield United",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Monday, Nov 30 2020 20:00",
+            "referee": "Peter Bankes",
+            "team1": {
+                "teamName": "West Ham",
+                "teamScore": 2,
+                "firstHalfScore": 1
+            },
+            "team2": {
+                "teamName": "Aston Villa",
+                "teamScore": 1,
+                "firstHalfScore": 1
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Nov 29 2020 19:15",
+            "team1": {
+                "teamName": "Arsenal",
+                "teamScore": 1,
+                "firstHalfScore": 1
+            },
+            "team2": {
+                "teamName": "Wolverhampton Wanderers",
+                "teamScore": 2,
+                "firstHalfScore": 2
+            },
+            "time": "FT"
+        }
+    ]
+}

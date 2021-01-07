@@ -1,0 +1,156 @@
+{
+    "matches": [
+        {
+            "when": "Sunday, Dec 20 2020 12:00",
+            "referee": "Peter Bankes",
+            "team1": {
+                "teamName": "Brighton",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Sheffield United",
+                "teamScore": 1,
+                "firstHalfScore": 0,
+                "redCards": 1
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Monday, Dec 21 2020 17:30",
+            "referee": "Lee Mason",
+            "team1": {
+                "teamName": "Burnley",
+                "teamScore": 2,
+                "firstHalfScore": 1
+            },
+            "team2": {
+                "teamName": "Wolverhampton Wanderers",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Monday, Dec 21 2020 20:00",
+            "referee": "Chris Kavanagh",
+            "team1": {
+                "teamName": "Chelsea",
+                "teamScore": 3,
+                "firstHalfScore": 1
+            },
+            "team2": {
+                "teamName": "West Ham",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Dec 19 2020 12:30",
+            "referee": "Jonathan Moss",
+            "team1": {
+                "teamName": "Crystal Palace",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Liverpool",
+                "teamScore": 7,
+                "firstHalfScore": 3
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Dec 19 2020 17:30",
+            "referee": "Andre Marriner",
+            "team1": {
+                "teamName": "Everton",
+                "teamScore": 2,
+                "firstHalfScore": 2
+            },
+            "team2": {
+                "teamName": "Arsenal",
+                "teamScore": 1,
+                "firstHalfScore": 1
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Dec 20 2020 16:30",
+            "referee": "Anthony Taylor",
+            "team1": {
+                "teamName": "Manchester United",
+                "teamScore": 6,
+                "firstHalfScore": 4
+            },
+            "team2": {
+                "teamName": "Leeds",
+                "teamScore": 2,
+                "firstHalfScore": 1
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Dec 19 2020 20:00",
+            "referee": "Graham Scott",
+            "team1": {
+                "teamName": "Newcastle United",
+                "teamScore": 1,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Fulham",
+                "teamScore": 1,
+                "firstHalfScore": 1,
+                "redCards": 1
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Saturday, Dec 19 2020 15:00",
+            "referee": "Mike Dean",
+            "team1": {
+                "teamName": "Southampton",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Manchester City",
+                "teamScore": 1,
+                "firstHalfScore": 1
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Dec 20 2020 14:15",
+            "referee": "Craig Pawson",
+            "team1": {
+                "teamName": "Tottenham",
+                "teamScore": 0,
+                "firstHalfScore": 0
+            },
+            "team2": {
+                "teamName": "Leicester",
+                "teamScore": 2,
+                "firstHalfScore": 1
+            },
+            "time": "FT"
+        },
+        {
+            "when": "Sunday, Dec 20 2020 19:15",
+            "team1": {
+                "teamName": "West Bromwich Albion",
+                "teamScore": 0,
+                "firstHalfScore": 0,
+                "redCards": 1
+            },
+            "team2": {
+                "teamName": "Aston Villa",
+                "teamScore": 3,
+                "firstHalfScore": 1
+            },
+            "time": "FT"
+        }
+    ]
+}
